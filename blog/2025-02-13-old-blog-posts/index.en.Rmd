@@ -1,0 +1,45 @@
+---
+title: Old blog posts
+author: Tengku Muhammad Hanis
+date: '2025-02-13'
+categories:
+  - old posts
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I've decided not to migrate my old blog posts to my current website as it would require too much works.
+
+My old blog posts remain available at [this link](https://tengkuhanis2.netlify.app/post/). Below is a table summarising the post titles and their corresponding links.
+
+| Title | Link |
+|---------------------------------------|---------------------------------|
+| Basic plotting with Matplotlib and Seaborn | <https://tengkuhanis2.netlify.app/post/basic-plotting-in-python/> |
+| Basic data wrangling with Python | <https://tengkuhanis2.netlify.app/post/basic-data-wrangling-with-python/> |
+| What makes data "good enough" for a statistical analysis? | <https://tengkuhanis2.netlify.app/post/what-makes-data-good-enough-for-a-statistical-analysis/> |
+| Mapping the states in Malaysia | <https://tengkuhanis2.netlify.app/post/mapping-the-states-in-malaysia/> |
+| Visualising augmented images in Keras | <https://tengkuhanis2.netlify.app/post/visualising-augmented-images-in-keras/> |
+| Using UMAP preprocessing for image classification | <https://tengkuhanis2.netlify.app/post/using-umap-preprocessing-for-image-classification/> |
+| Explore data using PCA | <https://tengkuhanis2.netlify.app/post/explore-data-using-pca/> |
+| Fitted vs predict in R | <https://tengkuhanis2.netlify.app/post/fitted-vs-predict-in-r/> |
+| A short note on variable selection | <https://tengkuhanis2.netlify.app/post/a-short-note-on-variable-selection/> |
+| Stepwise selection after multiple imputation | <https://tengkuhanis2.netlify.app/post/stepwise-selection-after-multiple-imputation/> |
+| Variable selection using genetic algorithm | <https://tengkuhanis2.netlify.app/post/variable-selection-using-genetic-algorithm/> |
+| My first interactive map with {leaflet} | <https://tengkuhanis2.netlify.app/post/my-first-interactive-map-with-leaflet/> |
+| Variable selection for imputation model in {mice} | <https://tengkuhanis2.netlify.app/post/variable-selection-for-imputation-model-in-mice/> |
+| Making maps with R (my first attempt ever!) | <https://tengkuhanis2.netlify.app/post/making-maps-with-r-my-first-attempt-ever/> |
+| Some COVID-19 plots for Southeast Asian countries | <https://tengkuhanis2.netlify.app/post/some-covid-19-plots-for-southeast-asian-countries/> |
+| Extract a table from a pdf | <https://tengkuhanis2.netlify.app/post/extract-a-table-from-a-pdf/> |
+| A short note on multiple imputation | <https://tengkuhanis2.netlify.app/post/a-short-note-on-multiple-imputation/> |
+| COVID-19 vaccine interest in Malaysia | <https://tengkuhanis2.netlify.app/post/covid-19-vaccine-interest-in-malaysia/> |
+| Wordcloud of COVID-19 research in Malaysia | <https://tengkuhanis2.netlify.app/post/wordcloud-of-covid-19-research-in-malaysia/> |
+| Hyperparameter tuning in tidymodels | <https://tengkuhanis2.netlify.app/post/hyperparameter-tuning-in-tidymodels/> |
+| Data exploration in R | <https://tengkuhanis2.netlify.app/post/data-exploration-in-r/> |
+| A summary of forcats package | <https://tengkuhanis2.netlify.app/post/a-summary-of-forcats-package/> |
+| Handling imbalanced data | <https://tengkuhanis2.netlify.app/post/handling-imbalanced-data/> |
+| Exponentially Weighted Average in Deep Learning | <https://tengkuhanis2.netlify.app/post/exponentially-weighted-average-in-deep-learning/> |
+| Base R vs tidyverse | <https://tengkuhanis2.netlify.app/post/2021-05-04-base-r-vs-tidyverse/> |
+| Loop vs apply in R | <https://tengkuhanis2.netlify.app/post/loop-vs-apply-in-r/> |
+| How many Malaysian should be vaccinated to get herd immunity from COVID-19? | <https://tengkuhanis2.netlify.app/post/how-many-malaysian-should-be-vaccinated-to-get-herd-immunity-from-covid-19/> |

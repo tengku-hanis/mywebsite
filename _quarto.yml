@@ -6,7 +6,7 @@ website:
   site-url: "https://tengkuhanis.netlify.app/"
   repo-url: https://github.com/tengku-hanis/mywebsite
   description: "Website of Tengku Muhammad Hanis"
-  favicon: /images/tmh_logo3.png 
+  favicon: /images/tmh_logo4.png 
   search: true
   navbar:
     left:
@@ -18,6 +18,7 @@ website:
       - talks.qmd
       - supervision.qmd
       - lecture.qmd
+      - blog.qmd
       - cv.qmd
   page-footer: 
     center: |
