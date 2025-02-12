@@ -20,7 +20,7 @@ about:
       href: https://scholar.google.com/citations?user=VV2bHQcAAAAJ&hl=en
     - icon: orcid
       text: ORCID
-      href: https://orcid.org/my-orcid?orcid=0000-0003-1466-7765
+      href: https://orcid.org/0000-0003-1466-7765
 ---
 
 ## Background

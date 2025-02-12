@@ -13,5 +13,6 @@ listing:
     - date
     - image
     - categories
+  page-size: 10
 page-layout: full
 ---
