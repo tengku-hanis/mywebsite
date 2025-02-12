@@ -4,22 +4,31 @@ title: "Publications"
 
 ```{r echo=FALSE, warning=FALSE, message=FALSE}
 library(DT)
+library(lubridate)
 
 # Read dataset
-data <- read.csv("data/publications.csv")
-data$Date <- lubridate::dmy(data$Date)
+data <- read.csv("data/publications.csv", stringsAsFactors = FALSE)
 
+# Convert 'Date' column to Date format
+data$Date <- dmy(data$Date)
+
+# Clean up 'Link' column to ensure proper formatting
+data$Link <- gsub('\\\\', '', data$Link)  # Remove any unwanted escape characters
+data$Link <- gsub('^"|"$', '', data$Link)  # Remove surrounding quotes if present
+
+# Sort data in descending order (latest date first)
+data <- data[order(data$Date, decreasing = TRUE), ]
 
 # Render the table with sorting, filtering, and pagination
 datatable(
   data,
-  escape = FALSE,
+  escape = FALSE,  # Allow HTML rendering
   rownames = FALSE,
   options = list(
-    pageLength = 10,        # Display 5 rows per page
-    autoWidth = TRUE,      # Adjust column width
-    searchHighlight = TRUE, # Highlight search results
-    order = list(list(3, "asc"))  # Default sort by 'Date' column (ascending)
+    pageLength = 10,        
+    autoWidth = TRUE,       
+    searchHighlight = TRUE, 
+    order = list(list(which(names(data) == "Date") - 1, "desc")) # Sort by latest date
   ),
   class = "display"
 )
