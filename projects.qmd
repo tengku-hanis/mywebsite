@@ -1,0 +1,14 @@
+---
+title: "Projects"
+---
+
+## Ongoing
+
+\-
+
+## Completed
+
+| Title | Description | Period | Status |
+|----|----|----|----|
+| [ShinyBC: breast cancer risk estimator](https://tengku-hanis.shinyapps.io/shinyBC/) | This projects aimed to develop a web application for breast cancer risk estimator using a Shiny application | Jan 2021 - Jan 2023 | Completed |
+| Situation analysis and modelling of COVID-19 cases in Malaysia | This project was conducted under the Epidemiology and Statistical Modelling team at Universiti Sains Malaysia to analyse the situation and modeling of COVID-19 cases in Malaysia | Mar 2020 - Jun 2023 | Completed |

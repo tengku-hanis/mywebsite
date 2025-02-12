@@ -1,0 +1,45 @@
+---
+title: "Tengku Muhammad Hanis"
+subtitle: "<div>Senior Lecturer</div><div><a href='https://www.unisza.edu.my/'>Universiti Sultan Zainal Abidin</a></div>"
+about: 
+  template: trestles
+  image: images/avatar.jpg
+  image-shape: round
+  links:
+    - icon: globe
+      text: Web
+      href: https://tengkuhanis.netlify.app/
+    - icon: github
+      text: Github
+      href: https://github.com/tengku-hanis
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/tengku-muhammad-hanis-9a7222144/
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=VV2bHQcAAAAJ&hl=en
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/my-orcid?orcid=0000-0003-1466-7765
+---
+
+## Background
+
+I earned my PhD in Public Health Epidemiology from [Universiti Sains Malaysia](https://www.usm.my/), where I explored the potential applications of machine learning and deep learning in the screening and diagnosis of breast cancer among Asian women.
+
+My academic journey began with a degree in medicine. However, I realized that a clinical career was not the right fit for me. This led me to pursue a master's degree in [Medical Statistics](https://medic.usm.my/index.php/biostat), where I developed a deep interest in data analysis. Coming from a medical background gives me a unique perspective on data, allowing me to bridge the gap between healthcare and data science.
+
+Currently, I am a Senior Lecturer at the [Faculty of Medicine, Universiti Sultan Zainal Abidin](https://fp.unisza.edu.my/) in Terengganu, Malaysia. I welcome collaborations, so feel free to reach out!
+
+## Interests
+
+-   Medical statistics; survival analysis, poisson regression, meta-analysis
+-   Machine learning and deep learning in medical sciences
+-   Text analysis, bibliometrics, sciencetometrics
+-   Use of R and Python in medical sciences
+
+## Education
+
+-   PhD in Public Health Epidemiology, 2020-2024 - Universiti Sains Malaysia
+-   MSc in Medical Statistics, 2017-2019 - Universiti Sains Malaysia
+-   MBBCh in Medicine, 2008-2015 - Al-Azhar University

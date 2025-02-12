@@ -1,0 +1,7 @@
+---
+title: "CV"
+---
+
+[{{< fa download >}} Download my resume](files/resume.pdf)
+
+[{{< fa download >}} Download my CV](files/cv.pdf)

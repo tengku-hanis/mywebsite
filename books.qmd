@@ -1,0 +1,17 @@
+---
+title: "Books"
+listing:
+  contents: books
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields:
+    - title
+    - subtitle
+    - author
+    - date
+    - categories
+page-layout: full
+---
