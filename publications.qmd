@@ -2,8 +2,26 @@
 title: "Publications"
 ---
 
-About this site
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+library(DT)
 
-```{r}
-1 + 1
+# Read dataset
+data <- read.csv("data/publications.csv")
+data$Date <- lubridate::dmy(data$Date)
+
+
+# Render the table with sorting, filtering, and pagination
+datatable(
+  data,
+  escape = FALSE,
+  rownames = FALSE,
+  options = list(
+    pageLength = 10,        # Display 5 rows per page
+    autoWidth = TRUE,      # Adjust column width
+    searchHighlight = TRUE, # Highlight search results
+    order = list(list(3, "asc"))  # Default sort by 'Date' column (ascending)
+  ),
+  class = "display"
+)
+
 ```

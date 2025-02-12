@@ -6,7 +6,7 @@ website:
   site-url: "https://tengkuhanis.netlify.app/"
   repo-url: https://github.com/tengku-hanis/mywebsite
   description: "Website of Tengku Muhammad Hanis"
-  favicon: /images/tmh_logo.png 
+  favicon: /images/tmh_logo2.png 
   search: true
   navbar:
     left:
