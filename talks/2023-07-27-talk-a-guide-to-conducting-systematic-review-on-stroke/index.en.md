@@ -12,4 +12,4 @@ Systematic review is crucial in assessing previous studies and research done on 
 -   Date: Sep 24, 2020 9:30 PM — 10:30 PM
 -   Location: Virtual
 -   Link:
-    -   [{{< fa file-powerpoint >}} Slides](files/slides_msc23.pdf)
+    -   [{{< fa file-powerpoint >}} Slides](https://tengkuhanis.netlify.app/files/slides_msc23.pdf)
