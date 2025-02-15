@@ -186,19 +186,19 @@
     "href": "books.html",
     "title": "Books",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nMissing data: A practical guide on handling it with R\n\n\nThe book is still a work in progress, but an incomplete draft is available for free on the author’s GitHub page.\n\n\n\nR\n\n\ndata analysis\n\n\n\n\n\n\nDec 20, 2024\n\n\nTengku Muhammad Hanis\n\n\n\n\n\n\n\nR Essentials: A Beginner’s Guide to Data Analysis\n\n\nThe book is not yet published, but a complete early draft is freely available on the author’s GitHub page.\n\n\n\nR\n\n\ndata analysis\n\n\n\n\n\n\nOct 29, 2024\n\n\nTengku Muhammad Hanis\n\n\n\n\n\n\n\nData analysis in medicine and Health using R\n\n\nThe online version of this book is available for free at Bookdown website. The printed version of the book is available for purchase at Routledge website.\n\n\n\nR\n\n\ndata analysis\n\n\n\n\n\n\nSep 16, 2023\n\n\nKamarul Imran Musa, Wan Nor Arifin, and Tengku Muhammad Hanis\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nMissing data: a practical guide on handling it with R\n\n\nThe book is still a work in progress, but an incomplete draft is available for free on the author’s GitHub page.\n\n\n\nR\n\n\ndata analysis\n\n\n\n\n\n\nDec 20, 2024\n\n\nTengku Muhammad Hanis\n\n\n\n\n\n\n\nR essentials: a beginner’s guide to data analysis\n\n\nThe book is not yet published, but a complete early draft is freely available on the author’s GitHub page.\n\n\n\nR\n\n\ndata analysis\n\n\n\n\n\n\nOct 29, 2024\n\n\nTengku Muhammad Hanis\n\n\n\n\n\n\n\nData analysis in medicine and health using R\n\n\nThe online version of this book is available for free at Bookdown website. The printed version of the book is available for purchase at Routledge website.\n\n\n\nR\n\n\ndata analysis\n\n\n\n\n\n\nSep 16, 2023\n\n\nKamarul Imran Musa, Wan Nor Arifin, and Tengku Muhammad Hanis\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "books/2024-10-29-r-essentials-a-beginner-s-guide-to-data-analysis/index.en.html",
     "href": "books/2024-10-29-r-essentials-a-beginner-s-guide-to-data-analysis/index.en.html",
-    "title": "R Essentials: A Beginner’s Guide to Data Analysis",
+    "title": "R essentials: a beginner’s guide to data analysis",
     "section": "",
     "text": "The book provides essential knowledge for beginners looking to start data analysis with R. Covering foundational concepts such as data exploration, plotting, and descriptive statistics, it is designed to guide readers through the basics, making R more accessible for data analysis tasks. The book is still a work in progress, but an early draft is available for free on the author’s GitHub page."
   },
   {
     "objectID": "books/2024-10-29-r-essentials-a-beginner-s-guide-to-data-analysis/index.en.html#abstract",
     "href": "books/2024-10-29-r-essentials-a-beginner-s-guide-to-data-analysis/index.en.html#abstract",
-    "title": "R Essentials: A Beginner’s Guide to Data Analysis",
+    "title": "R essentials: a beginner’s guide to data analysis",
     "section": "",
     "text": "The book provides essential knowledge for beginners looking to start data analysis with R. Covering foundational concepts such as data exploration, plotting, and descriptive statistics, it is designed to guide readers through the basics, making R more accessible for data analysis tasks. The book is still a work in progress, but an early draft is available for free on the author’s GitHub page."
   },
@@ -219,28 +219,28 @@
   {
     "objectID": "books/2024-04-16-data-analysis-in-medicine-and-health-using-r/index.en.html",
     "href": "books/2024-04-16-data-analysis-in-medicine-and-health-using-r/index.en.html",
-    "title": "Data analysis in medicine and Health using R",
+    "title": "Data analysis in medicine and health using R",
     "section": "",
     "text": "The 1st edition of the printed book was published in 2024 by Chapman & Hall. This book is both comprehensive and highly practical, gives a solid foundation of data and statistical theory for readers. Subsequently, it equips them with practical skills to conduct analyses using the powerful R programming language, widely used by statisticians. The book takes a gentle approach to help readers navigate data and statistical analysis using R, minimizing the learning curve. RStudio is used as the integrated development environment (IDE) for enhanced productivity for readers to run their R codes.\nThe online version of this book is available for free at bookdown website. The printed version of the book is available for purchase at Routledge website."
   },
   {
     "objectID": "books/2024-04-16-data-analysis-in-medicine-and-health-using-r/index.en.html#abstract",
     "href": "books/2024-04-16-data-analysis-in-medicine-and-health-using-r/index.en.html#abstract",
-    "title": "Data analysis in medicine and Health using R",
+    "title": "Data analysis in medicine and health using R",
     "section": "",
     "text": "The 1st edition of the printed book was published in 2024 by Chapman & Hall. This book is both comprehensive and highly practical, gives a solid foundation of data and statistical theory for readers. Subsequently, it equips them with practical skills to conduct analyses using the powerful R programming language, widely used by statisticians. The book takes a gentle approach to help readers navigate data and statistical analysis using R, minimizing the learning curve. RStudio is used as the integrated development environment (IDE) for enhanced productivity for readers to run their R codes.\nThe online version of this book is available for free at bookdown website. The printed version of the book is available for purchase at Routledge website."
   },
   {
     "objectID": "books/2024-12-20-missing-data-a-practical-guide-on-handling-it-with-r/index.en.html",
     "href": "books/2024-12-20-missing-data-a-practical-guide-on-handling-it-with-r/index.en.html",
-    "title": "Missing data: A practical guide on handling it with R",
+    "title": "Missing data: a practical guide on handling it with R",
     "section": "",
     "text": "The book offers practical insights into understanding and managing missing data using R, making it an invaluable resource for data analysts and researchers. It covers key topics such as the types of missing data, possible solutions for handling them, and best practices to ensure robust data analysis. With a clear focus on practical implementation, the book equips readers with the skills needed to address real-world challenges in data analysis. Although still a work in progress, an early draft is available for free on the author’s GitHub page."
   },
   {
     "objectID": "books/2024-12-20-missing-data-a-practical-guide-on-handling-it-with-r/index.en.html#abstract",
     "href": "books/2024-12-20-missing-data-a-practical-guide-on-handling-it-with-r/index.en.html#abstract",
-    "title": "Missing data: A practical guide on handling it with R",
+    "title": "Missing data: a practical guide on handling it with R",
     "section": "",
     "text": "The book offers practical insights into understanding and managing missing data using R, making it an invaluable resource for data analysts and researchers. It covers key topics such as the types of missing data, possible solutions for handling them, and best practices to ensure robust data analysis. With a clear focus on practical implementation, the book equips readers with the skills needed to address real-world challenges in data analysis. Although still a work in progress, an early draft is available for free on the author’s GitHub page."
   },
