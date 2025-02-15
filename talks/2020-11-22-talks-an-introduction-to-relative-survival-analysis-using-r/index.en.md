@@ -13,6 +13,6 @@ The use of cause-specific survival is overwhelmingly popular. In contrast, the r
 
 -   Date: Nov 22, 2020 12:45 PM — 1:30 PM
 -   Event: Malaysia’s R confeRence 2020
--   Download:
-    -   [{{< fa download >}} Slides](https://tengkuhanis.netlify.app/talks/rconf2020/conference2020#1)
+-   Links:
+    -   [{{< fa file-powerpoint >}} Slides](https://tengkuhanis.netlify.app/talks/rconf2020/conference2020#1)
     -   [{{< fa download >}} Material](https://github.com/tengku-hanis/relative-survival-nov2020)

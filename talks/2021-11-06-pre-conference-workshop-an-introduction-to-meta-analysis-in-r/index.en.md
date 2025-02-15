@@ -13,6 +13,6 @@ Meta-analysis provides a set of quantitative approaches to summarise previous sc
 
 -   Date: Nov 6, 2021 2:00 PM — 4:00 PM
 -   Event: Malaysia’s R confeRence 2021
--   Download:
-    -   [{{< fa download >}} Slides](https://github.com/tengku-hanis/Rconference2021/blob/main/Rconf2021-meta-analysis.pdf)
+-   Links:
+    -   [{{< fa file-powerpoint >}} Slides](https://github.com/tengku-hanis/Rconference2021/blob/main/Rconf2021-meta-analysis.pdf)
     -   [{{< fa download >}} Material](https://github.com/tengku-hanis/Rconference2021)

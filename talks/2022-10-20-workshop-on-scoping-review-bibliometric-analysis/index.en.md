@@ -13,6 +13,6 @@ Bibliometric analysis is a quantitative approach in exploring the patterns of pu
 
 -   Date: Oct 20, 2022 10:00 AM — 1:00 PM
 -   Location: Bilik Sumber Pelajar, BPSP, PPSP, USM
--   Download:
-    -   [{{< fa download >}} Slides](https://docs.google.com/presentation/d/e/2PACX-1vSncBWzmXldPRTwQVs_RtBIMljMT8wqFGQ8oJiZ7EohyVagotaeVp8yBoB3ThKkzijtoXHVaSZcFjoe/pub?start=false&loop=false&delayms=3000&slide=id.p)
+-   Links:
+    -   [{{< fa file-powerpoint >}} Slides](https://docs.google.com/presentation/d/e/2PACX-1vSncBWzmXldPRTwQVs_RtBIMljMT8wqFGQ8oJiZ7EohyVagotaeVp8yBoB3ThKkzijtoXHVaSZcFjoe/pub?start=false&loop=false&delayms=3000&slide=id.p)
     -   [{{< fa download >}} Material](https://github.com/tengku-hanis/biblio-JPM)

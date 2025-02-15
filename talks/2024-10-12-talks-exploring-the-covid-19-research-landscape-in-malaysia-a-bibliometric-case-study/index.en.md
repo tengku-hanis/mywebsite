@@ -12,5 +12,5 @@ This talk presented a bibliometric analysis of Malaysia's COVID-19-related resea
 -   Date: Oct 27, 2024 11:30 AM — 12:00 PM
 -   Event: Malaysia's R confeRence 2024
 -   Location: Dewan Kualiah 4, School of Medical Sciences, Universiti Sains Malaysia
--   Download:
-    -   [{{< fa download >}} Slides](https://tengku-hanis.github.io/bibliocovidmalaysia/#1)
+-   Link:
+    -   [{{< fa file-powerpoint >}} Slides](https://tengku-hanis.github.io/bibliocovidmalaysia/#1)

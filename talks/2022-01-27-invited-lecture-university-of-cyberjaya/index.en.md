@@ -11,5 +11,5 @@ This session covered a systematic review, a topic under Research & Evidence Base
 
 -   Date: Jan 27, 2022 4:30 PM — 6:30 PM
 -   Location: Virtual
--   Download:
-    -   [{{< fa download >}} Slides](https://docs.google.com/presentation/d/e/2PACX-1vQRDj1IdW4W_W8Cj_WhBcAwEpisfJqSr33_83CfSOpdIUx6ZQh5gxTzc3M9XLuEgPhmSX2T4O-z3UDm/pub?start=false&loop=false&delayms=3000&slide=id.p)
+-   Link:
+    -   [{{< fa file-powerpoint >}} Slides](https://docs.google.com/presentation/d/e/2PACX-1vQRDj1IdW4W_W8Cj_WhBcAwEpisfJqSr33_83CfSOpdIUx6ZQh5gxTzc3M9XLuEgPhmSX2T4O-z3UDm/pub?start=false&loop=false&delayms=3000&slide=id.p)

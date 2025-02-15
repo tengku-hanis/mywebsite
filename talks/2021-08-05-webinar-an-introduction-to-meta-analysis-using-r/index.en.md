@@ -13,6 +13,6 @@ Meta-analysis is a statistical approach that combine the results of the multiple
 
 -   Date: Aug 5, 2021 2:30 PM — 2:30 PM
 -   Location: Virtual
--   Download:
-    -   [{{< fa download >}} Slides](https://github.com/tengku-hanis/webinar-basic-MA/blob/main/MA-webinar-05-08-2021.pdf)
+-   Links:
+    -   [{{< fa file-powerpoint >}} Slides](https://github.com/tengku-hanis/webinar-basic-MA/blob/main/MA-webinar-05-08-2021.pdf)
     -   [{{< fa download >}} Material](https://github.com/tengku-hanis/webinar-basic-MA)

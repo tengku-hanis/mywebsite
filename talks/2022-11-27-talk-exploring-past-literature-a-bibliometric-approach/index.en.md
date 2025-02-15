@@ -13,6 +13,6 @@ Bibliometric analysis is a quantitative approach in exploring the patterns of pu
 
 -   Date: Nov 27, 2022 2:00 PM — 2:50 PM
 -   Event: Malaysia’s R confeRence 2022
--   Download:
-    -   [{{< fa download >}} Slides](https://tengku-hanis.github.io/bibliometrics_Nov2022/#1)
+-   Links:
+    -   [{{< fa file-powerpoint >}} Slides](https://tengku-hanis.github.io/bibliometrics_Nov2022/#1)
     -   [{{< fa download >}} Material](https://github.com/tengku-hanis/bibliometrics_Nov2022)

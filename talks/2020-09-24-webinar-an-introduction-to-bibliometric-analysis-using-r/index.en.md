@@ -13,6 +13,6 @@ Bibliometric analysis is a quantitative approach in describing the patterns of p
 
 -   Date: Sep 24, 2020 9:30 PM — 10:30 PM
 -   Location: Virtual
--   Download:
-    -   [{{< fa download >}} Slides](https://github.com/tengku-hanis/webinar_biblio24-09-2020/blob/master/Bibliometrics%20webinar.pdf)
+-   Links:
+    -   [{{< fa file-powerpoint >}} Slides](https://github.com/tengku-hanis/webinar_biblio24-09-2020/blob/master/Bibliometrics%20webinar.pdf)
     -   [{{< fa download >}} Material](https://github.com/tengku-hanis/webinar_biblio24-09-2020)

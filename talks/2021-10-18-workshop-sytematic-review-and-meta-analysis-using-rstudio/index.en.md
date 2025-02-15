@@ -14,6 +14,6 @@ Meta-analysis is a statistical approach that combine the results of the multiple
 
 -   Date: Oct 18, 2021 2:00 PM — 4:00 PM
 -   Location: Virtual
--   Download:
-    -   [{{< fa download >}} Slides](https://github.com/tengku-hanis/MA-PPSP-USM/blob/main/Meta-analysis%20%28Hands-on%29.pdf)
+-   Links:
+    -   [{{< fa file-powerpoint >}} Slides](https://github.com/tengku-hanis/MA-PPSP-USM/blob/main/Meta-analysis%20%28Hands-on%29.pdf)
     -   [{{< fa download >}} Material](https://github.com/tengku-hanis/MA-PPSP-USM)
