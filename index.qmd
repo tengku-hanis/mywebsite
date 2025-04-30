@@ -25,17 +25,17 @@ about:
 
 ## Background
 
-I earned my PhD in Public Health Epidemiology from [Universiti Sains Malaysia](https://www.usm.my/), where I explored the potential applications of machine learning and deep learning in the screening and diagnosis of breast cancer among Asian women.
+I am a Senior Lecturer at the Department of Community Medicine, [Faculty of Medicine, Universiti Sultan Zainal Abidin](https://fp.unisza.edu.my/) in Terengganu, Malaysia. I teach biostatistics and machine learning to both undergraduate and postgraduate students, and I’m always open to collaborations — feel free to get in touch!
 
-My academic journey began with a degree in medicine. However, I realized that a clinical career was not the right fit for me. This led me to pursue a master's degree in [Medical Statistics](https://medic.usm.my/index.php/biostat), where I developed a deep interest in data analysis. Coming from a medical background gives me a unique perspective on data, allowing me to bridge the gap between healthcare and data science.
+I hold a PhD in Public Health Epidemiology from [Universiti Sains Malaysia](https://www.usm.my/), where my research focused on the application of machine learning and deep learning in the screening and diagnosis of breast cancer among Asian women.
 
-Currently, I am a Senior Lecturer at the [Faculty of Medicine, Universiti Sultan Zainal Abidin](https://fp.unisza.edu.my/) in Terengganu, Malaysia. I welcome collaborations, so feel free to reach out!
+My academic journey began with a degree in medicine. However, I soon realised that a clinical career was not the right path for me. This led me to pursue a [Master’s in Medical Statistics](https://medic.usm.my/index.php/biostat), where I discovered a strong passion for data analysis. My medical background gives me a unique perspective, enabling me to bridge the gap between healthcare and data science.
 
 ## Interests
 
 -   Medical statistics; survival analysis, poisson regression, meta-analysis
 -   Machine learning and deep learning in medical sciences
--   Text analysis, bibliometrics, sciencetometrics
+-   Text analysis, bibliometrics, and scientometrics
 -   Use of R and Python in medical sciences
 
 ## Education

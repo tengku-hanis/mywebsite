@@ -2,6 +2,16 @@
 title: "Lectures"
 ---
 
+**All lecture materials can only be downloaded using a UniSZA email address.**
+
+Undergraduate:
+
 | Title | Date | Link to materials |
 |-------|------|-------------------|
 | \-    | \-   | \-                |
+
+Postgraduate:
+
+| Title | Date | Link to materials |
+|----|----|----|
+| Meta-analysis in RCTs | April 28, 2025 | [Link](https://drive.google.com/drive/folders/1NDx8YtYe36OO4FJNsLpDkyr5PXyDd0xR?usp=sharing) |
