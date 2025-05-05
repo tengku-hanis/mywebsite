@@ -165,39 +165,26 @@ ul.task-list li input[type="checkbox"] {
 
 <p><strong>All lecture materials can only be downloaded using a UniSZA email address.</strong></p>
 <p>Undergraduate:</p>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Title</th>
-<th>Date</th>
-<th>Link to materials</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-</tbody>
-</table>
+<ol type="1">
+<li>None</li>
+</ol>
 <p>Postgraduate:</p>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Title</th>
-<th>Date</th>
-<th>Link to materials</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Meta-analysis in RCTs</td>
-<td>April 28, 2025</td>
-<td><a href="https://drive.google.com/drive/folders/1NDx8YtYe36OO4FJNsLpDkyr5PXyDd0xR?usp=sharing">Link</a></td>
-</tr>
-</tbody>
-</table>
+<ol type="1">
+<li>Meta-analysis in RCTs [April 28, 2025] - <button onclick="checkPassword()" style="padding:4px 16px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer; display:inline;"> Link to material (password protected) </button></li>
+</ol>
+<script>
+function checkPassword() {
+  const password = prompt("Please enter the password:");
+  const correctPassword = "uniszakt";  // change this
+  const targetURL = "https://drive.google.com/drive/folders/1NDx8YtYe36OO4FJNsLpDkyr5PXyDd0xR?usp=sharing";  // change this
+
+  if (password === correctPassword) {
+    window.location.href = targetURL;
+  } else {
+    alert("Incorrect password. Access denied.");
+  }
+}
+</script>
 
 
 
