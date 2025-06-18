@@ -4,11 +4,21 @@ title: "Lectures"
 
 **All lecture materials can only be downloaded using a UniSZA email address.**
 
-Undergraduate:
+### Undergraduate material
 
-1.  None
+#### 2025:
 
-Postgraduate:
+##### BMM 21204:
+
+1.  Descriptive statistics - Lecture and CAL \[July 02, 2025\]
+2.  Data presentation - Lecture and CAL \[July 02, 2025\]
+3.  Introduction to SPSS - CAL \[July 03, 2025\]
+4.  McNemar test - CAL \[July 10, 2025\]
+5.  Non-parametric tests - CAL \[July 13, 2025\]
+
+### Postgraduate material
+
+#### 2025:
 
 1.  Meta-analysis in RCTs \[April 28, 2025\] - <button onclick="checkPassword()" style="padding:4px 16px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer; display:inline;"> Link to material (password protected) </button>
 
