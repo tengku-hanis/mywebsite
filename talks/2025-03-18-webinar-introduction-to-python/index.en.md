@@ -6,7 +6,7 @@ categories:
 subtitle: Organised by [Malaysian Disease Modelling Experts Group](https://epilab.com.my/)
 ---
 
-![](featured.jpg)
+![](featured.jpg){width="70%"}
 
 This webinar provided an introduction to Python for data analysis. Participants were introduced to several Python-related software options, the installation process, and library management, as well as basic data structures. They were also shown how to perform basic data wrangling and visualisation in Google Colab. The slides and recording are freely available on [YouTube](https://www.youtube.com/watch?v=E-FzIDn6udE).
 

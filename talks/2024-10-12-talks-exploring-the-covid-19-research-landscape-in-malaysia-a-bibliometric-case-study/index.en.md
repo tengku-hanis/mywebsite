@@ -5,7 +5,7 @@ categories: [bibliometric]
 subtitle: This talk was part of Malaysia R confeRence 2024 organised by [Malaysia R User Group (MyRUG)](https://www.facebook.com/rusergroupmalaysia)
 ---
 
-![](featured.jpg)
+![](featured.jpg){width="70%"}
 
 This talk presented a bibliometric analysis of Malaysia's COVID-19-related research, using data from the Web of Science database. The bibliometric analysis, which quantitatively evaluated publications through metrics like citation counts, publication volume, and collaboration networks, provided insights into key research trends, influential contributors, and collaborative efforts. By employing R and Python for the analysis, this case study demonstrated how bibliometric techniques could uncover valuable patterns and trends within Malaysia's pandemic research landscape.
 
