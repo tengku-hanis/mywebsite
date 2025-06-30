@@ -171,6 +171,17 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><strong>All lecture materials can only be downloaded using a UniSZA email address.</strong></p>
+<script>
+  function checkPassword(targetURL) {
+    const password = prompt("Please enter the password:");
+    const correctPassword = "uniszakt";
+    if (password === correctPassword) {
+      window.location.href = targetURL;
+    } else {
+      alert("Incorrect password. Access denied.");
+    }
+  }
+</script>
 <section id="undergraduate-material" class="level3">
 <h3 class="anchored" data-anchor-id="undergraduate-material">Undergraduate material</h3>
 <section id="section" class="level4">
@@ -178,54 +189,9 @@ ul.task-list li input[type="checkbox"] {
 <section id="fundamentals-of-community-medicine-and-research-bmm-21204" class="level5">
 <h5 class="anchored" data-anchor-id="fundamentals-of-community-medicine-and-research-bmm-21204">Fundamentals of Community Medicine and Research (BMM 21204):</h5>
 <ol type="1">
-<li>Descriptive statistics - Lecture [July 02, 2025] - <button onclick="checkPassword()" style="padding:4px 16px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer; display:inline;"> Link to material (password protected) </button></li>
-</ol>
-<script>
-function checkPassword() {
-  const password = prompt("Please enter the password:");
-  const correctPassword = "uniszakt";  // change this
-  const targetURL = "https://drive.google.com/drive/folders/1Uj1CR-GERaiafMDMgJABmsAoQw9PCx1y?usp=sharing";  // change this
-
-  if (password === correctPassword) {
-    window.location.href = targetURL;
-  } else {
-    alert("Incorrect password. Access denied.");
-  }
-}
-</script>
-<ol start="2" type="1">
-<li>Data presentation - Lecture [July 02, 2025] - <button onclick="checkPassword()" style="padding:4px 16px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer; display:inline;"> Link to material (password protected) </button></li>
-</ol>
-<script>
-function checkPassword() {
-  const password = prompt("Please enter the password:");
-  const correctPassword = "uniszakt";  // change this
-  const targetURL = "https://drive.google.com/drive/folders/1yvPKfb75VxMAwHeGIDnsQF_EVCew-urw?usp=sharing";  // change this
-
-  if (password === correctPassword) {
-    window.location.href = targetURL;
-  } else {
-    alert("Incorrect password. Access denied.");
-  }
-}
-</script>
-<ol start="3" type="1">
-<li>Introduction to SPSS - CAL [July 03, 2025] - <button onclick="checkPassword()" style="padding:4px 16px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer; display:inline;"> Link to material (password protected) </button></li>
-</ol>
-<script>
-function checkPassword() {
-  const password = prompt("Please enter the password:");
-  const correctPassword = "uniszakt";  // change this
-  const targetURL = "https://drive.google.com/drive/folders/1NKyZmxSeKMLbaTJJ5RE_bHNHaRQo61Zv?usp=sharing";  // change this
-
-  if (password === correctPassword) {
-    window.location.href = targetURL;
-  } else {
-    alert("Incorrect password. Access denied.");
-  }
-}
-</script>
-<ol start="4" type="1">
+<li>Descriptive statistics - Lecture [July 02, 2025] - <button onclick="checkPassword('https://drive.google.com/drive/folders/1Uj1CR-GERaiafMDMgJABmsAoQw9PCx1y?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button></li>
+<li>Data presentation - Lecture [July 02, 2025] - <button onclick="checkPassword('https://drive.google.com/drive/folders/1yvPKfb75VxMAwHeGIDnsQF_EVCew-urw?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button></li>
+<li>Introduction to SPSS - CAL [July 03, 2025] - <button onclick="checkPassword('https://drive.google.com/drive/folders/1NKyZmxSeKMLbaTJJ5RE_bHNHaRQo61Zv?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button></li>
 <li>McNemar test - CAL [July 10, 2025]</li>
 <li>Non-parametric tests - CAL [July 13, 2025]</li>
 </ol>
@@ -237,21 +203,8 @@ function checkPassword() {
 <section id="section-1" class="level4">
 <h4 class="anchored" data-anchor-id="section-1">2025:</h4>
 <ol type="1">
-<li>Meta-analysis in RCTs [April 28, 2025] - <button onclick="checkPassword()" style="padding:4px 16px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer; display:inline;"> Link to material (password protected) </button></li>
+<li>Meta-analysis in RCTs [April 28, 2025] - <button onclick="checkPassword('https://drive.google.com/drive/folders/1NDx8YtYe36OO4FJNsLpDkyr5PXyDd0xR?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button></li>
 </ol>
-<script>
-function checkPassword() {
-  const password = prompt("Please enter the password:");
-  const correctPassword = "uniszakt";  // change this
-  const targetURL = "https://drive.google.com/drive/folders/1NDx8YtYe36OO4FJNsLpDkyr5PXyDd0xR?usp=sharing";  // change this
-
-  if (password === correctPassword) {
-    window.location.href = targetURL;
-  } else {
-    alert("Incorrect password. Access denied.");
-  }
-}
-</script>
 
 
 </section>
