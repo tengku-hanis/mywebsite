@@ -8,7 +8,7 @@ title: "Lectures"
 
 #### 2025:
 
-##### BMM 21204:
+##### Fundamentals of Community Medicine and Research (BMM 21204):
 
 1.  Descriptive statistics - Lecture \[July 02, 2025\] - <button onclick="checkPassword()" style="padding:4px 16px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer; display:inline;"> Link to material (password protected) </button>
 
