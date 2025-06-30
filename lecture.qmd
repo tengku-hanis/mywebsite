@@ -10,9 +10,57 @@ title: "Lectures"
 
 ##### BMM 21204:
 
-1.  Descriptive statistics - Lecture and CAL \[July 02, 2025\]
-2.  Data presentation - Lecture and CAL \[July 02, 2025\]
-3.  Introduction to SPSS - CAL \[July 03, 2025\]
+1.  Descriptive statistics - Lecture \[July 02, 2025\] - <button onclick="checkPassword()" style="padding:4px 16px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer; display:inline;"> Link to material (password protected) </button>
+
+```{=html}
+<script>
+function checkPassword() {
+  const password = prompt("Please enter the password:");
+  const correctPassword = "uniszakt";  // change this
+  const targetURL = "https://drive.google.com/drive/folders/1Uj1CR-GERaiafMDMgJABmsAoQw9PCx1y?usp=sharing";  // change this
+
+  if (password === correctPassword) {
+    window.location.href = targetURL;
+  } else {
+    alert("Incorrect password. Access denied.");
+  }
+}
+</script>
+```
+2.  Data presentation - Lecture \[July 02, 2025\] - <button onclick="checkPassword()" style="padding:4px 16px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer; display:inline;"> Link to material (password protected) </button>
+
+```{=html}
+<script>
+function checkPassword() {
+  const password = prompt("Please enter the password:");
+  const correctPassword = "uniszakt";  // change this
+  const targetURL = "https://drive.google.com/drive/folders/1yvPKfb75VxMAwHeGIDnsQF_EVCew-urw?usp=sharing";  // change this
+
+  if (password === correctPassword) {
+    window.location.href = targetURL;
+  } else {
+    alert("Incorrect password. Access denied.");
+  }
+}
+</script>
+```
+3.  Introduction to SPSS - CAL \[July 03, 2025\] - <button onclick="checkPassword()" style="padding:4px 16px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer; display:inline;"> Link to material (password protected) </button>
+
+```{=html}
+<script>
+function checkPassword() {
+  const password = prompt("Please enter the password:");
+  const correctPassword = "uniszakt";  // change this
+  const targetURL = "https://drive.google.com/drive/folders/1NKyZmxSeKMLbaTJJ5RE_bHNHaRQo61Zv?usp=sharing";  // change this
+
+  if (password === correctPassword) {
+    window.location.href = targetURL;
+  } else {
+    alert("Incorrect password. Access denied.");
+  }
+}
+</script>
+```
 4.  McNemar test - CAL \[July 10, 2025\]
 5.  Non-parametric tests - CAL \[July 13, 2025\]
 
