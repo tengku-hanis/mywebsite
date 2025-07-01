@@ -27,7 +27,7 @@ title: "Lectures"
 1.  Descriptive statistics - Lecture \[July 02, 2025\] - <button onclick="checkPassword('https://drive.google.com/drive/folders/1Uj1CR-GERaiafMDMgJABmsAoQw9PCx1y?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button>
 2.  Data presentation - Lecture \[July 02, 2025\] - <button onclick="checkPassword('https://drive.google.com/drive/folders/1yvPKfb75VxMAwHeGIDnsQF_EVCew-urw?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button>
 3.  Introduction to SPSS - CAL \[July 03, 2025\] - <button onclick="checkPassword('https://drive.google.com/drive/folders/1NKyZmxSeKMLbaTJJ5RE_bHNHaRQo61Zv?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button>
-4.  McNemar test - CAL \[July 10, 2025\]
+4.  McNemar test - CAL \[July 10, 2025\] - <button onclick="checkPassword('https://drive.google.com/drive/folders/1455bTtrLdOJpOhpm7_SPQQPsaUjx3wj0?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button>
 5.  Non-parametric tests - CAL \[July 13, 2025\]
 
 ### Postgraduate material
