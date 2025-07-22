@@ -6,15 +6,15 @@ about:
   image: images/avatar.jpg
   image-shape: round
   links:
-    - icon: globe
-      text: Web
-      href: https://tengkuhanis.netlify.app/
     - icon: github
       text: Github
       href: https://github.com/tengku-hanis
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/tengku-muhammad-hanis-9a7222144/
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@tengkuhanis/featured
     - icon: google-scholar
       text: Google Scholar
       href: https://scholar.google.com/citations?user=VV2bHQcAAAAJ&hl=en
