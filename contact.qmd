@@ -1,0 +1,42 @@
+---
+title: "Contact Me"
+---
+
+<form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+   <!-- Hidden input for Netlify -->
+   <input type="hidden" name="form-name" value="contact">
+
+   <!-- Anti-bot honeypot field (hidden from users) -->
+   <div style="display:none">
+       <label>Don’t fill this out: <input name="bot-field"></label>
+   </div>
+
+   <!-- Name field -->
+   <p>
+       <label for="name">Your Name:</label><br>
+       <input type="text" name="name" id="name" placeholder="Enter your name" required>
+   </p>
+
+   <!-- Email field -->
+   <p>
+       <label for="email">Your Email:</label><br>
+       <input type="email" name="email" id="email" placeholder="Enter your email" required>
+   </p>
+
+   <!-- Subject field -->
+   <p>
+       <label for="subject">Subject:</label><br>
+       <input type="text" name="subject" id="subject" placeholder="Enter the subject of your email" required>
+   </p>
+
+   <!-- Message field -->
+   <p>
+       <label for="message">Your Message:</label><br>
+       <textarea name="message" id="message" placeholder="Write your message here" required></textarea>
+   </p>
+
+   <!-- Submit button -->
+   <p>
+       <button type="submit">Send</button>
+   </p>
+</form>

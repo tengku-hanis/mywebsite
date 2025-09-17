@@ -31,6 +31,8 @@ I hold a PhD in Public Health Epidemiology from [Universiti Sains Malaysia](http
 
 My academic journey began with a degree in medicine. However, I soon realised that a clinical career was not the right path for me. This led me to pursue a [Master’s in Medical Statistics](https://medic.usm.my/index.php/biostat), where I discovered a strong passion for data analysis. My medical background gives me a unique perspective, enabling me to bridge the gap between healthcare and data science.
 
+I welcome opportunities for collaboration and professional connections on [LinkedIn](https://www.linkedin.com/feed/). For prospective Master's or PhD students, please contact me via [Contact Me](contact.qmd) to discuss potential supervision.
+
 ## Interests
 
 -   Medical statistics; survival analysis, poisson regression, meta-analysis

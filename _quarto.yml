@@ -20,6 +20,7 @@ website:
       - lecture.qmd
       - blog.qmd
       - cv.qmd
+      - contact.qmd
   page-footer: 
     center: |
       {{< fa regular copyright >}} Tengku Hanis, 2020-2025<br>

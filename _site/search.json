@@ -133,46 +133,11 @@
     "text": "Download my resume\n Download my CV"
   },
   {
-    "objectID": "books/2024-12-20-missing-data-a-practical-guide-on-handling-it-with-r/index.en.html",
-    "href": "books/2024-12-20-missing-data-a-practical-guide-on-handling-it-with-r/index.en.html",
-    "title": "Missing data: a practical guide on handling it with R",
+    "objectID": "books.html",
+    "href": "books.html",
+    "title": "Books",
     "section": "",
-    "text": "The book offers practical insights into understanding and managing missing data using R, making it an invaluable resource for data analysts and researchers. It covers key topics such as the types of missing data, possible solutions for handling them, and best practices to ensure robust data analysis. With a clear focus on practical implementation, the book equips readers with the skills needed to address real-world challenges in data analysis. Although still a work in progress, an early draft is available for free on the author’s GitHub page."
-  },
-  {
-    "objectID": "books/2024-12-20-missing-data-a-practical-guide-on-handling-it-with-r/index.en.html#abstract",
-    "href": "books/2024-12-20-missing-data-a-practical-guide-on-handling-it-with-r/index.en.html#abstract",
-    "title": "Missing data: a practical guide on handling it with R",
-    "section": "",
-    "text": "The book offers practical insights into understanding and managing missing data using R, making it an invaluable resource for data analysts and researchers. It covers key topics such as the types of missing data, possible solutions for handling them, and best practices to ensure robust data analysis. With a clear focus on practical implementation, the book equips readers with the skills needed to address real-world challenges in data analysis. Although still a work in progress, an early draft is available for free on the author’s GitHub page."
-  },
-  {
-    "objectID": "books/2024-04-16-data-analysis-in-medicine-and-health-using-r/index.en.html",
-    "href": "books/2024-04-16-data-analysis-in-medicine-and-health-using-r/index.en.html",
-    "title": "Data analysis in medicine and health using R",
-    "section": "",
-    "text": "The 1st edition of the printed book was published in 2024 by Chapman & Hall. This book is both comprehensive and highly practical, gives a solid foundation of data and statistical theory for readers. Subsequently, it equips them with practical skills to conduct analyses using the powerful R programming language, widely used by statisticians. The book takes a gentle approach to help readers navigate data and statistical analysis using R, minimizing the learning curve. RStudio is used as the integrated development environment (IDE) for enhanced productivity for readers to run their R codes.\nThe online version of this book is available for free at bookdown website. The printed version of the book is available for purchase at Routledge website."
-  },
-  {
-    "objectID": "books/2024-04-16-data-analysis-in-medicine-and-health-using-r/index.en.html#abstract",
-    "href": "books/2024-04-16-data-analysis-in-medicine-and-health-using-r/index.en.html#abstract",
-    "title": "Data analysis in medicine and health using R",
-    "section": "",
-    "text": "The 1st edition of the printed book was published in 2024 by Chapman & Hall. This book is both comprehensive and highly practical, gives a solid foundation of data and statistical theory for readers. Subsequently, it equips them with practical skills to conduct analyses using the powerful R programming language, widely used by statisticians. The book takes a gentle approach to help readers navigate data and statistical analysis using R, minimizing the learning curve. RStudio is used as the integrated development environment (IDE) for enhanced productivity for readers to run their R codes.\nThe online version of this book is available for free at bookdown website. The printed version of the book is available for purchase at Routledge website."
-  },
-  {
-    "objectID": "blog/2025-02-13-old-blog-posts/index.en.html",
-    "href": "blog/2025-02-13-old-blog-posts/index.en.html",
-    "title": "Old blog posts",
-    "section": "",
-    "text": "I’ve decided not to migrate my old blog posts to my current website as it would require too much works.\nMy old blog posts remain available at this link. Below is a table summarising the post titles and their corresponding links.\n\n\n\nTitle\nLink\n\n\n\n\nBasic plotting with Matplotlib and Seaborn\nhttps://tengkuhanis2.netlify.app/post/basic-plotting-in-python/\n\n\nBasic data wrangling with Python\nhttps://tengkuhanis2.netlify.app/post/basic-data-wrangling-with-python/\n\n\nWhat makes data “good enough” for a statistical analysis?\nhttps://tengkuhanis2.netlify.app/post/what-makes-data-good-enough-for-a-statistical-analysis/\n\n\nMapping the states in Malaysia\nhttps://tengkuhanis2.netlify.app/post/mapping-the-states-in-malaysia/\n\n\nVisualising augmented images in Keras\nhttps://tengkuhanis2.netlify.app/post/visualising-augmented-images-in-keras/\n\n\nUsing UMAP preprocessing for image classification\nhttps://tengkuhanis2.netlify.app/post/using-umap-preprocessing-for-image-classification/\n\n\nExplore data using PCA\nhttps://tengkuhanis2.netlify.app/post/explore-data-using-pca/\n\n\nFitted vs predict in R\nhttps://tengkuhanis2.netlify.app/post/fitted-vs-predict-in-r/\n\n\nA short note on variable selection\nhttps://tengkuhanis2.netlify.app/post/a-short-note-on-variable-selection/\n\n\nStepwise selection after multiple imputation\nhttps://tengkuhanis2.netlify.app/post/stepwise-selection-after-multiple-imputation/\n\n\nVariable selection using genetic algorithm\nhttps://tengkuhanis2.netlify.app/post/variable-selection-using-genetic-algorithm/\n\n\nMy first interactive map with {leaflet}\nhttps://tengkuhanis2.netlify.app/post/my-first-interactive-map-with-leaflet/\n\n\nVariable selection for imputation model in {mice}\nhttps://tengkuhanis2.netlify.app/post/variable-selection-for-imputation-model-in-mice/\n\n\nMaking maps with R (my first attempt ever!)\nhttps://tengkuhanis2.netlify.app/post/making-maps-with-r-my-first-attempt-ever/\n\n\nSome COVID-19 plots for Southeast Asian countries\nhttps://tengkuhanis2.netlify.app/post/some-covid-19-plots-for-southeast-asian-countries/\n\n\nExtract a table from a pdf\nhttps://tengkuhanis2.netlify.app/post/extract-a-table-from-a-pdf/\n\n\nA short note on multiple imputation\nhttps://tengkuhanis2.netlify.app/post/a-short-note-on-multiple-imputation/\n\n\nCOVID-19 vaccine interest in Malaysia\nhttps://tengkuhanis2.netlify.app/post/covid-19-vaccine-interest-in-malaysia/\n\n\nWordcloud of COVID-19 research in Malaysia\nhttps://tengkuhanis2.netlify.app/post/wordcloud-of-covid-19-research-in-malaysia/\n\n\nHyperparameter tuning in tidymodels\nhttps://tengkuhanis2.netlify.app/post/hyperparameter-tuning-in-tidymodels/\n\n\nData exploration in R\nhttps://tengkuhanis2.netlify.app/post/data-exploration-in-r/\n\n\nA summary of forcats package\nhttps://tengkuhanis2.netlify.app/post/a-summary-of-forcats-package/\n\n\nHandling imbalanced data\nhttps://tengkuhanis2.netlify.app/post/handling-imbalanced-data/\n\n\nExponentially Weighted Average in Deep Learning\nhttps://tengkuhanis2.netlify.app/post/exponentially-weighted-average-in-deep-learning/\n\n\nBase R vs tidyverse\nhttps://tengkuhanis2.netlify.app/post/2021-05-04-base-r-vs-tidyverse/\n\n\nLoop vs apply in R\nhttps://tengkuhanis2.netlify.app/post/loop-vs-apply-in-r/\n\n\nHow many Malaysian should be vaccinated to get herd immunity from COVID-19?\nhttps://tengkuhanis2.netlify.app/post/how-many-malaysian-should-be-vaccinated-to-get-herd-immunity-from-covid-19/"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nAuthor\n\n\nDate\n\n\nReading Time\n\n\n\n\n\n\nOld blog posts\n\n\nTengku Muhammad Hanis\n\n\nFeb 13, 2025\n\n\n2 min\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nMissing data: a practical guide on handling it with R\n\n\nThe book is still a work in progress, but an incomplete draft is available for free on the author’s GitHub page.\n\n\n\nR\n\n\ndata analysis\n\n\n\n\n\n\nDec 20, 2024\n\n\nTengku Muhammad Hanis\n\n\n\n\n\n\n\nR essentials: a beginner’s guide to data analysis\n\n\nThe book is not yet published, but a complete early draft is freely available on the author’s GitHub page.\n\n\n\nR\n\n\ndata analysis\n\n\n\n\n\n\nOct 29, 2024\n\n\nTengku Muhammad Hanis\n\n\n\n\n\n\n\nData analysis in medicine and health using R\n\n\nThe online version of this book is available for free at Bookdown website. The printed version of the book is available for purchase at Routledge website.\n\n\n\nR\n\n\ndata analysis\n\n\n\n\n\n\nSep 16, 2023\n\n\nKamarul Imran Musa, Wan Nor Arifin, and Tengku Muhammad Hanis\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "books/2024-10-29-r-essentials-a-beginner-s-guide-to-data-analysis/index.en.html",
@@ -189,25 +154,67 @@
     "text": "The book provides essential knowledge for beginners looking to start data analysis with R. Covering foundational concepts such as data exploration, plotting, and descriptive statistics, it is designed to guide readers through the basics, making R more accessible for data analysis tasks. The book is still a work in progress, but an early draft is available for free on the author’s GitHub page."
   },
   {
-    "objectID": "books.html",
-    "href": "books.html",
-    "title": "Books",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nMissing data: a practical guide on handling it with R\n\n\nThe book is still a work in progress, but an incomplete draft is available for free on the author’s GitHub page.\n\n\n\nR\n\n\ndata analysis\n\n\n\n\n\n\nDec 20, 2024\n\n\nTengku Muhammad Hanis\n\n\n\n\n\n\n\nR essentials: a beginner’s guide to data analysis\n\n\nThe book is not yet published, but a complete early draft is freely available on the author’s GitHub page.\n\n\n\nR\n\n\ndata analysis\n\n\n\n\n\n\nOct 29, 2024\n\n\nTengku Muhammad Hanis\n\n\n\n\n\n\n\nData analysis in medicine and health using R\n\n\nThe online version of this book is available for free at Bookdown website. The printed version of the book is available for purchase at Routledge website.\n\n\n\nR\n\n\ndata analysis\n\n\n\n\n\n\nSep 16, 2023\n\n\nKamarul Imran Musa, Wan Nor Arifin, and Tengku Muhammad Hanis\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nAuthor\n\n\nDate\n\n\nReading Time\n\n\n\n\n\n\nOld blog posts\n\n\nTengku Muhammad Hanis\n\n\nFeb 13, 2025\n\n\n2 min\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/2025-02-13-old-blog-posts/index.en.html",
+    "href": "blog/2025-02-13-old-blog-posts/index.en.html",
+    "title": "Old blog posts",
+    "section": "",
+    "text": "I’ve decided not to migrate my old blog posts to my current website as it would require too much works.\nMy old blog posts remain available at this link. Below is a table summarising the post titles and their corresponding links.\n\n\n\nTitle\nLink\n\n\n\n\nBasic plotting with Matplotlib and Seaborn\nhttps://tengkuhanis2.netlify.app/post/basic-plotting-in-python/\n\n\nBasic data wrangling with Python\nhttps://tengkuhanis2.netlify.app/post/basic-data-wrangling-with-python/\n\n\nWhat makes data “good enough” for a statistical analysis?\nhttps://tengkuhanis2.netlify.app/post/what-makes-data-good-enough-for-a-statistical-analysis/\n\n\nMapping the states in Malaysia\nhttps://tengkuhanis2.netlify.app/post/mapping-the-states-in-malaysia/\n\n\nVisualising augmented images in Keras\nhttps://tengkuhanis2.netlify.app/post/visualising-augmented-images-in-keras/\n\n\nUsing UMAP preprocessing for image classification\nhttps://tengkuhanis2.netlify.app/post/using-umap-preprocessing-for-image-classification/\n\n\nExplore data using PCA\nhttps://tengkuhanis2.netlify.app/post/explore-data-using-pca/\n\n\nFitted vs predict in R\nhttps://tengkuhanis2.netlify.app/post/fitted-vs-predict-in-r/\n\n\nA short note on variable selection\nhttps://tengkuhanis2.netlify.app/post/a-short-note-on-variable-selection/\n\n\nStepwise selection after multiple imputation\nhttps://tengkuhanis2.netlify.app/post/stepwise-selection-after-multiple-imputation/\n\n\nVariable selection using genetic algorithm\nhttps://tengkuhanis2.netlify.app/post/variable-selection-using-genetic-algorithm/\n\n\nMy first interactive map with {leaflet}\nhttps://tengkuhanis2.netlify.app/post/my-first-interactive-map-with-leaflet/\n\n\nVariable selection for imputation model in {mice}\nhttps://tengkuhanis2.netlify.app/post/variable-selection-for-imputation-model-in-mice/\n\n\nMaking maps with R (my first attempt ever!)\nhttps://tengkuhanis2.netlify.app/post/making-maps-with-r-my-first-attempt-ever/\n\n\nSome COVID-19 plots for Southeast Asian countries\nhttps://tengkuhanis2.netlify.app/post/some-covid-19-plots-for-southeast-asian-countries/\n\n\nExtract a table from a pdf\nhttps://tengkuhanis2.netlify.app/post/extract-a-table-from-a-pdf/\n\n\nA short note on multiple imputation\nhttps://tengkuhanis2.netlify.app/post/a-short-note-on-multiple-imputation/\n\n\nCOVID-19 vaccine interest in Malaysia\nhttps://tengkuhanis2.netlify.app/post/covid-19-vaccine-interest-in-malaysia/\n\n\nWordcloud of COVID-19 research in Malaysia\nhttps://tengkuhanis2.netlify.app/post/wordcloud-of-covid-19-research-in-malaysia/\n\n\nHyperparameter tuning in tidymodels\nhttps://tengkuhanis2.netlify.app/post/hyperparameter-tuning-in-tidymodels/\n\n\nData exploration in R\nhttps://tengkuhanis2.netlify.app/post/data-exploration-in-r/\n\n\nA summary of forcats package\nhttps://tengkuhanis2.netlify.app/post/a-summary-of-forcats-package/\n\n\nHandling imbalanced data\nhttps://tengkuhanis2.netlify.app/post/handling-imbalanced-data/\n\n\nExponentially Weighted Average in Deep Learning\nhttps://tengkuhanis2.netlify.app/post/exponentially-weighted-average-in-deep-learning/\n\n\nBase R vs tidyverse\nhttps://tengkuhanis2.netlify.app/post/2021-05-04-base-r-vs-tidyverse/\n\n\nLoop vs apply in R\nhttps://tengkuhanis2.netlify.app/post/loop-vs-apply-in-r/\n\n\nHow many Malaysian should be vaccinated to get herd immunity from COVID-19?\nhttps://tengkuhanis2.netlify.app/post/how-many-malaysian-should-be-vaccinated-to-get-herd-immunity-from-covid-19/"
+  },
+  {
+    "objectID": "books/2024-04-16-data-analysis-in-medicine-and-health-using-r/index.en.html",
+    "href": "books/2024-04-16-data-analysis-in-medicine-and-health-using-r/index.en.html",
+    "title": "Data analysis in medicine and health using R",
+    "section": "",
+    "text": "The 1st edition of the printed book was published in 2024 by Chapman & Hall. This book is both comprehensive and highly practical, gives a solid foundation of data and statistical theory for readers. Subsequently, it equips them with practical skills to conduct analyses using the powerful R programming language, widely used by statisticians. The book takes a gentle approach to help readers navigate data and statistical analysis using R, minimizing the learning curve. RStudio is used as the integrated development environment (IDE) for enhanced productivity for readers to run their R codes.\nThe online version of this book is available for free at bookdown website. The printed version of the book is available for purchase at Routledge website."
+  },
+  {
+    "objectID": "books/2024-04-16-data-analysis-in-medicine-and-health-using-r/index.en.html#abstract",
+    "href": "books/2024-04-16-data-analysis-in-medicine-and-health-using-r/index.en.html#abstract",
+    "title": "Data analysis in medicine and health using R",
+    "section": "",
+    "text": "The 1st edition of the printed book was published in 2024 by Chapman & Hall. This book is both comprehensive and highly practical, gives a solid foundation of data and statistical theory for readers. Subsequently, it equips them with practical skills to conduct analyses using the powerful R programming language, widely used by statisticians. The book takes a gentle approach to help readers navigate data and statistical analysis using R, minimizing the learning curve. RStudio is used as the integrated development environment (IDE) for enhanced productivity for readers to run their R codes.\nThe online version of this book is available for free at bookdown website. The printed version of the book is available for purchase at Routledge website."
+  },
+  {
+    "objectID": "books/2024-12-20-missing-data-a-practical-guide-on-handling-it-with-r/index.en.html",
+    "href": "books/2024-12-20-missing-data-a-practical-guide-on-handling-it-with-r/index.en.html",
+    "title": "Missing data: a practical guide on handling it with R",
+    "section": "",
+    "text": "The book offers practical insights into understanding and managing missing data using R, making it an invaluable resource for data analysts and researchers. It covers key topics such as the types of missing data, possible solutions for handling them, and best practices to ensure robust data analysis. With a clear focus on practical implementation, the book equips readers with the skills needed to address real-world challenges in data analysis. Although still a work in progress, an early draft is available for free on the author’s GitHub page."
+  },
+  {
+    "objectID": "books/2024-12-20-missing-data-a-practical-guide-on-handling-it-with-r/index.en.html#abstract",
+    "href": "books/2024-12-20-missing-data-a-practical-guide-on-handling-it-with-r/index.en.html#abstract",
+    "title": "Missing data: a practical guide on handling it with R",
+    "section": "",
+    "text": "The book offers practical insights into understanding and managing missing data using R, making it an invaluable resource for data analysts and researchers. It covers key topics such as the types of missing data, possible solutions for handling them, and best practices to ensure robust data analysis. With a clear focus on practical implementation, the book equips readers with the skills needed to address real-world challenges in data analysis. Although still a work in progress, an early draft is available for free on the author’s GitHub page."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "&lt;label&gt;Don’t fill this out: &lt;input name=\"bot-field\"&gt;&lt;/label&gt;\n\n\n\nYour Name: \n\n\n\nYour Email: \n\n\n\nSubject: \n\n\n\nYour Message:\n\n\n\n\n\nSend"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Tengku Muhammad Hanis",
     "section": "",
-    "text": "I am a Senior Lecturer at the Department of Community Medicine, Faculty of Medicine, Universiti Sultan Zainal Abidin in Terengganu, Malaysia. I teach biostatistics and machine learning to both undergraduate and postgraduate students, and I’m always open to collaborations — feel free to get in touch!\nI hold a PhD in Public Health Epidemiology from Universiti Sains Malaysia, where my research focused on the application of machine learning and deep learning in the screening and diagnosis of breast cancer among Asian women.\nMy academic journey began with a degree in medicine. However, I soon realised that a clinical career was not the right path for me. This led me to pursue a Master’s in Medical Statistics, where I discovered a strong passion for data analysis. My medical background gives me a unique perspective, enabling me to bridge the gap between healthcare and data science."
+    "text": "I am a Senior Lecturer at the Department of Community Medicine, Faculty of Medicine, Universiti Sultan Zainal Abidin in Terengganu, Malaysia. I teach biostatistics and machine learning to both undergraduate and postgraduate students, and I’m always open to collaborations — feel free to get in touch!\nI hold a PhD in Public Health Epidemiology from Universiti Sains Malaysia, where my research focused on the application of machine learning and deep learning in the screening and diagnosis of breast cancer among Asian women.\nMy academic journey began with a degree in medicine. However, I soon realised that a clinical career was not the right path for me. This led me to pursue a Master’s in Medical Statistics, where I discovered a strong passion for data analysis. My medical background gives me a unique perspective, enabling me to bridge the gap between healthcare and data science.\nI welcome opportunities for collaboration and professional connections on LinkedIn. For prospective Master’s or PhD students, please contact me via Contact Me to discuss potential supervision."
   },
   {
     "objectID": "index.html#background",
     "href": "index.html#background",
     "title": "Tengku Muhammad Hanis",
     "section": "",
-    "text": "I am a Senior Lecturer at the Department of Community Medicine, Faculty of Medicine, Universiti Sultan Zainal Abidin in Terengganu, Malaysia. I teach biostatistics and machine learning to both undergraduate and postgraduate students, and I’m always open to collaborations — feel free to get in touch!\nI hold a PhD in Public Health Epidemiology from Universiti Sains Malaysia, where my research focused on the application of machine learning and deep learning in the screening and diagnosis of breast cancer among Asian women.\nMy academic journey began with a degree in medicine. However, I soon realised that a clinical career was not the right path for me. This led me to pursue a Master’s in Medical Statistics, where I discovered a strong passion for data analysis. My medical background gives me a unique perspective, enabling me to bridge the gap between healthcare and data science."
+    "text": "I am a Senior Lecturer at the Department of Community Medicine, Faculty of Medicine, Universiti Sultan Zainal Abidin in Terengganu, Malaysia. I teach biostatistics and machine learning to both undergraduate and postgraduate students, and I’m always open to collaborations — feel free to get in touch!\nI hold a PhD in Public Health Epidemiology from Universiti Sains Malaysia, where my research focused on the application of machine learning and deep learning in the screening and diagnosis of breast cancer among Asian women.\nMy academic journey began with a degree in medicine. However, I soon realised that a clinical career was not the right path for me. This led me to pursue a Master’s in Medical Statistics, where I discovered a strong passion for data analysis. My medical background gives me a unique perspective, enabling me to bridge the gap between healthcare and data science.\nI welcome opportunities for collaboration and professional connections on LinkedIn. For prospective Master’s or PhD students, please contact me via Contact Me to discuss potential supervision."
   },
   {
     "objectID": "index.html#interests",
