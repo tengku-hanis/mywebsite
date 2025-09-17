@@ -200,7 +200,7 @@
     "href": "contact.html",
     "title": "Contact Me",
     "section": "",
-    "text": "&lt;label&gt;Don’t fill this out: &lt;input name=\"bot-field\"&gt;&lt;/label&gt;\n\n\n\nYour Name: \n\n\n\nYour Email: \n\n\n\nSubject: \n\n\n\nYour Message:\n\n\n\n\n\nSend"
+    "text": "For prospective Master’s or PhD students, please contact me through the contact form below. I will reply to you via the email provided. I look forward to hearing from you.\n\n\n\n\n\n   &lt;label&gt;Don’t fill this out: &lt;input name=\"bot-field\"&gt;&lt;/label&gt;\n\n\n\nYour Name: \n\n\n\nYour Email: \n\n\n\nSubject: \n\n\n\nYour Message:\n\n\n\n\n\nSend"
   },
   {
     "objectID": "index.html",

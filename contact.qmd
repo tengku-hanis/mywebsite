@@ -2,6 +2,9 @@
 title: "Contact Me"
 ---
 
+For prospective Master’s or PhD students, please contact me through the contact form below. I will reply to you via the email provided. I look forward to hearing from you.
+
+
 <form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
    <!-- Hidden input for Netlify -->
    <input type="hidden" name="form-name" value="contact">
@@ -14,25 +17,25 @@ title: "Contact Me"
    <!-- Name field -->
    <p>
        <label for="name">Your Name:</label><br>
-       <input type="text" name="name" id="name" placeholder="Enter your name" required>
+       <input type="text" name="name" id="name" placeholder="Enter your name" required style="width: 100%;">
    </p>
 
    <!-- Email field -->
    <p>
        <label for="email">Your Email:</label><br>
-       <input type="email" name="email" id="email" placeholder="Enter your email" required>
+       <input type="email" name="email" id="email" placeholder="Enter your email" required style="width: 100%;">
    </p>
 
    <!-- Subject field -->
    <p>
        <label for="subject">Subject:</label><br>
-       <input type="text" name="subject" id="subject" placeholder="Enter the subject of your email" required>
+       <input type="text" name="subject" id="subject" placeholder="Enter the subject of your email" required style="width: 100%;">
    </p>
 
    <!-- Message field -->
    <p>
        <label for="message">Your Message:</label><br>
-       <textarea name="message" id="message" placeholder="Write your message here" required></textarea>
+       <textarea name="message" id="message" placeholder="Write your message here" required style="width: 100%;"></textarea>
    </p>
 
    <!-- Submit button -->
