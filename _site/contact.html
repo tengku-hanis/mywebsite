@@ -168,7 +168,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>For prospective Master’s or PhD students, please contact me through the contact form below. I will reply to you via the email provided. I look forward to hearing from you.</p>
-<form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+<form id="contact-form" name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
 <!-- Hidden input for Netlify -->
 <p><input type="hidden" name="form-name" value="contact"></p>
 <!-- Anti-bot honeypot field (hidden from users) -->
@@ -198,7 +198,22 @@ ul.task-list li input[type="checkbox"] {
 Send
 </button>
 </p>
+<!-- Thank You Message -->
+<p id="thank-you-message" style="display: none; color: green; font-weight: bold;">
+Thank you for your message. I have received your inquiry and will respond as soon as possible.
+</p>
 </form>
+<script>
+   document.getElementById("contact-form").addEventListener("submit", function(event) {
+       event.preventDefault(); // Prevent default form submission (no redirect)
+       
+       // Show the thank-you message
+       document.getElementById("thank-you-message").style.display = "block";
+       
+       // Hide the form
+       this.style.display = "none";
+   });
+</script>
 
 
 
