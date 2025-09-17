@@ -4,4 +4,4 @@ title: "Thank You!"
 
 <p>I have received your message and will respond as soon as possible.</p>
 
-\<a href="/contact"\>Back to Contact Me\</a\>
+<a href="/contact">Back to Contact Me</a>
