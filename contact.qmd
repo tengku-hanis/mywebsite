@@ -4,58 +4,54 @@ title: "Contact Me"
 
 For prospective Master’s or PhD students, please contact me through the contact form below. I will reply to you via the email provided. I look forward to hearing from you.
 
-<form id="contact-form" name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
-   <!-- Hidden input for Netlify -->
-   <input type="hidden" name="form-name" value="contact">
+<form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" action="/thank-you">
 
-   <!-- Anti-bot honeypot field (hidden from users) -->
-   <div style="display:none">
-       <label>Don’t fill this out: <input name="bot-field"></label>
-   </div>
+<!-- Hidden input for Netlify -->
 
-   <!-- Name field -->
-   <p>
-       <label for="name">Your Name:</label><br>
-       <input type="text" name="name" id="name" placeholder="Enter your name" required style="width: 100%;">
-   </p>
+<input type="hidden" name="form-name" value="contact">
 
-   <!-- Email field -->
-   <p>
-       <label for="email">Your Email:</label><br>
-       <input type="email" name="email" id="email" placeholder="Enter your email" required style="width: 100%;">
-   </p>
+<!-- Anti-bot honeypot field (hidden from users) -->
 
-   <!-- Subject field -->
-   <p>
-       <label for="subject">Subject:</label><br>
-       <input type="text" name="subject" id="subject" placeholder="Enter the subject of your email" required style="width: 100%;">
-   </p>
+::: {style="display:none"}
+```         
+   <label>Don’t fill this out: <input name="bot-field"></label>
+```
+:::
 
-   <!-- Message field -->
-   <p>
-       <label for="message">Your Message:</label><br>
-       <textarea name="message" id="message" placeholder="Write your message here" required style="width: 100%;"></textarea>
-   </p>
+<!-- Name field -->
 
-   <!-- Submit button -->
-   <p>
-       <button type="submit">Send</button>
-   </p>
+<p><label for="name">Your Name:</label><br> <input type="text" name="name" id="name" placeholder="Enter your name" required style="width: 100%;"></p>
 
-   <!-- Thank You Message -->
-   <p id="thank-you-message" style="display: none; color: green; font-weight: bold;">
-       Thank you for your message. I have received your inquiry and will respond as soon as possible.
-   </p>
+<!-- Email field -->
+
+<p><label for="email">Your Email:</label><br> <input type="email" name="email" id="email" placeholder="Enter your email" required style="width: 100%;"></p>
+
+<!-- Subject field -->
+
+<p><label for="subject">Subject:</label><br> <input type="text" name="subject" id="subject" placeholder="Enter the subject of your email" required style="width: 100%;"></p>
+
+<!-- Message field -->
+
+<p>
+
+<label for="message">Your Message:</label><br>
+
+```{=html}
+<textarea name="message" id="message" placeholder="Write your message here" required style="width: 100%;"></textarea>
+```
+
+</p>
+
+<!-- Submit button -->
+
+<p>
+
+<button type="submit">
+
+Send
+
+</button>
+
+</p>
+
 </form>
-
-<script>
-   document.getElementById("contact-form").addEventListener("submit", function(event) {
-       event.preventDefault(); // Prevent default form submission (no redirect)
-       
-       // Show the thank-you message
-       document.getElementById("thank-you-message").style.display = "block";
-       
-       // Hide the form
-       this.style.display = "none";
-   });
-</script>

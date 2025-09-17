@@ -200,7 +200,7 @@
     "href": "contact.html",
     "title": "Contact Me",
     "section": "",
-    "text": "For prospective Master’s or PhD students, please contact me through the contact form below. I will reply to you via the email provided. I look forward to hearing from you.\n\n\n\n\n\n   &lt;label&gt;Don’t fill this out: &lt;input name=\"bot-field\"&gt;&lt;/label&gt;\n\n\n\nYour Name: \n\n\n\nYour Email: \n\n\n\nSubject: \n\n\n\nYour Message:\n\n\n\n\n\nSend\n\n\n\n\nThank you for your message. I have received your inquiry and will respond as soon as possible."
+    "text": "For prospective Master’s or PhD students, please contact me through the contact form below. I will reply to you via the email provided. I look forward to hearing from you.\n\n\n\n\n\n   &lt;label&gt;Don’t fill this out: &lt;input name=\"bot-field\"&gt;&lt;/label&gt;\n\n\n\nYour Name: \n\n\n\nYour Email: \n\n\n\nSubject: \n\n\n\nYour Message:\n\n\n\n\n\nSend"
   },
   {
     "objectID": "index.html",
@@ -383,5 +383,12 @@
     "title": "Webinar - Introduction to Python for Data Analysis",
     "section": "",
     "text": "This webinar provided an introduction to Python for data analysis. Participants were introduced to several Python-related software options, the installation process, and library management, as well as basic data structures. They were also shown how to perform basic data wrangling and visualisation in Google Colab. The slides and recording are freely available on YouTube.\n\nDate: Mar 18, 2024 2:00 PM — Mar 18, 2024 2:00 PM\nLocation: Virtual (Webex)\nLink:\n\n Slides\n Data and codes"
+  },
+  {
+    "objectID": "thank-you.html",
+    "href": "thank-you.html",
+    "title": "Thank You",
+    "section": "",
+    "text": "Thank You!\n\n\nThank you for your message. I have received your inquiry and will respond as soon as possible.\n\nBack to Home"
   }
 ]

@@ -1,0 +1,9 @@
+---
+title: "Thank You"
+---
+
+<h1>Thank You!</h1>
+
+<p>Thank you for your message. I have received your inquiry and will respond as soon as possible.</p>
+
+<a href="/">Back to Home</a>
