@@ -4,11 +4,15 @@ title: "Projects"
 
 ## Ongoing
 
-\-
+| Title | Description | Role | Period |
+|-----------------------|--------------------------|---------|---------------|
+| Machine learning and psychological complications in cancer patients | This projects is currently ongoing and funded by the KPJ Healthcare grant | Co-reseacher | 2025 - Present |
 
 ## Completed
 
-| Title | Description | Period | Status |
-|----|----|----|----|
-| [ShinyBC: breast cancer risk estimator](https://tengku-hanis.shinyapps.io/shinyBC/) | This projects aimed to develop a web application for breast cancer risk estimator using a Shiny application | Jan 2021 - Jan 2023 | Completed |
-| Situation analysis and modelling of COVID-19 cases in Malaysia | This project was conducted under the Epidemiology and Statistical Modelling team at Universiti Sains Malaysia to analyse the situation and modeling of COVID-19 cases in Malaysia | Mar 2020 - Jun 2023 | Completed |
+| Title | Description | Period |
+|------------------------|---------------------------------|----------------|
+| The development of a web app for breast cancer risk estimation | This projects aimed to develop [a web application](https://tengku-hanis.shinyapps.io/shinyBC/) for breast cancer risk estimator using a Shiny application | 2022 - 2023 |
+| Prediction of breast cancer diagnosis using machine learning in Malaysian women | This study explored the use of machine learning and deep learning as a screening model and supplementary diagnostic tool for breast cancer | 2020 - 2024 |
+| Situation analysis and modelling of COVID-19 cases in Malaysia | This project was conducted under the Epidemiology and Statistical Modelling team at Universiti Sains Malaysia to analyse the situation and modeling of COVID-19 cases in Malaysia | 2020 - 2023 |
+| Relative survival and its prognostic factors of breast cancer patients in Kelantan, Malaysia | This project measured relative survival rate of breast cancer and its prognostic factors in Kelantan population. | 2018 - 2019 |
