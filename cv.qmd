@@ -1,7 +1,15 @@
----
-title: "CV"
----
+## Resume
 
 [{{< fa download >}} Download my resume](files/resume.pdf)
 
+<object data="files/resume.pdf" type="application/pdf" width="100%" height="700">
+
+</object>
+
+## Curriculum Vitae
+
 [{{< fa download >}} Download my CV](files/cv.pdf)
+
+<object data="files/cv.pdf" type="application/pdf" width="100%" height="700">
+
+</object>

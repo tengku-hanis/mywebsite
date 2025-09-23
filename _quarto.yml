@@ -19,7 +19,8 @@ website:
       - supervision.qmd
       - lecture.qmd
       - blog.qmd
-      - cv.qmd
+      - href: cv.qmd
+        text: CV
       - contact.qmd
   page-footer: 
     center: |
