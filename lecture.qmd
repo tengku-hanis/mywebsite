@@ -34,6 +34,8 @@ title: "Lectures"
 
 #### BMHS Year 3
 
+##### Health System Research I (BHS 30104)
+
 1.  Introduction to SPSS - Lecture and Practical \[November 05, 2025\] - <button onclick="checkPassword('https://drive.google.com/drive/folders/159yhvIRiEHEhLOs1t7uuNEvciUIpvFbp?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button>
 
 ## Postgraduate material
