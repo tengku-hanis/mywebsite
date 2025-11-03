@@ -18,9 +18,11 @@ title: "Lectures"
 </script>
 ```
 
-### Undergraduate material
+## Undergraduate material
 
-#### 2025:
+### 2025:
+
+#### MBBS Year 2
 
 ##### Fundamentals of Community Medicine and Research (BMM 21204):
 
@@ -30,8 +32,12 @@ title: "Lectures"
 4.  McNemar test - CAL \[July 14, 2025\] - <button onclick="checkPassword('https://drive.google.com/drive/folders/1455bTtrLdOJpOhpm7_SPQQPsaUjx3wj0?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button>
 5.  Non-parametric tests - CAL \[July 14, 2025\] - `<button onclick="checkPassword('`{=html}https://drive.google.com/drive/folders/1DmzWBPLrAhvycOwgl-deT3hKUSlRgv3J?usp=sharing`')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">`{=html}Link to material</button>
 
-### Postgraduate material
+#### BHMS Year 3
 
-#### 2025:
+1.  Introduction to SPSS - Lecture and Practical \[November 05, 2025\] - <button onclick="checkPassword('https://drive.google.com/drive/folders/159yhvIRiEHEhLOs1t7uuNEvciUIpvFbp?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button>
+
+## Postgraduate material
+
+### 2025:
 
 1.  Meta-analysis in RCTs \[April 28, 2025\] - <button onclick="checkPassword('https://drive.google.com/drive/folders/1NDx8YtYe36OO4FJNsLpDkyr5PXyDd0xR?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button>

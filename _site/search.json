@@ -277,7 +277,7 @@
     "href": "lecture.html",
     "title": "Lectures",
     "section": "",
-    "text": "All lecture materials can only be downloaded using a UniSZA email address.\n\n\nUndergraduate material\n\n2025:\n\nFundamentals of Community Medicine and Research (BMM 21204):\n\nDescriptive statistics - Lecture [July 02, 2025] - Link to material\nData presentation - Lecture [July 02, 2025] - Link to material\nIntroduction to SPSS - CAL [July 03, 2025] - Link to material\nMcNemar test - CAL [July 14, 2025] - Link to material\nNon-parametric tests - CAL [July 14, 2025] - Link to material\n\n\n\n\n\nPostgraduate material\n\n2025:\n\nMeta-analysis in RCTs [April 28, 2025] - Link to material"
+    "text": "All lecture materials can only be downloaded using a UniSZA email address."
   },
   {
     "objectID": "talks/2020-09-24-webinar-an-introduction-to-bibliometric-analysis-using-r/index.en.html",
@@ -404,5 +404,19 @@
     "title": "Tengku Hanis",
     "section": "",
     "text": "Download my resume"
+  },
+  {
+    "objectID": "lecture.html#undergraduate-material",
+    "href": "lecture.html#undergraduate-material",
+    "title": "Lectures",
+    "section": "Undergraduate material",
+    "text": "Undergraduate material\n\n2025:\n\nMBBS Year 2\n\nFundamentals of Community Medicine and Research (BMM 21204):\n\nDescriptive statistics - Lecture [July 02, 2025] - Link to material\nData presentation - Lecture [July 02, 2025] - Link to material\nIntroduction to SPSS - CAL [July 03, 2025] - Link to material\nMcNemar test - CAL [July 14, 2025] - Link to material\nNon-parametric tests - CAL [July 14, 2025] - Link to material\n\n\n\n\nBHMS Year 3\n\nIntroduction to SPSS - Lecture and Practical [November 05, 2025] - Link to material"
+  },
+  {
+    "objectID": "lecture.html#postgraduate-material",
+    "href": "lecture.html#postgraduate-material",
+    "title": "Lectures",
+    "section": "Postgraduate material",
+    "text": "Postgraduate material\n\n2025:\n\nMeta-analysis in RCTs [April 28, 2025] - Link to material"
   }
 ]
