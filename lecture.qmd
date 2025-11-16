@@ -2,8 +2,6 @@
 title: "Lectures"
 ---
 
-**All lecture materials can only be downloaded using a UniSZA email address.**
-
 ```{=html}
 <script>
   function checkPassword(targetURL) {
