@@ -5,7 +5,7 @@ website:
   title: "Tengku Hanis"
   site-url: "https://tengkuhanis.netlify.app/"
   repo-url: https://github.com/tengku-hanis/mywebsite
-  description: "Website of Tengku Muhammad Hanis"
+  description: "Senior lecturer & researcher at Universiti Sultan Zainal Abidin, Terengganu, Malaysia. View my publications and CV."
   favicon: /images/tmh_logo4.png 
   search: true
   navbar:
@@ -30,7 +30,7 @@ website:
   # --- ADD THIS SECTION FOR SOCIAL MEDIA PREVIEW ---
   open-graph:
     description: "Senior lecturer & researcher at Universiti Sultan Zainal Abidin, Terengganu, Malaysia. View my publications and CV."
-    image: /images/avatar.jpg  # This must be a LARGE image (approx 1200x630px)
+    image: images/avatar.jpg  # This must be a LARGE image (approx 1200x630px)
 
 
 format:
