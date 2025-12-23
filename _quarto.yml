@@ -27,6 +27,11 @@ website:
       {{< fa regular copyright >}} Tengku Hanis, 2020-2025<br>
       All content licensed under {{< fa brands creative-commons >}}
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+  # --- ADD THIS SECTION FOR SOCIAL MEDIA PREVIEW ---
+  open-graph:
+    description: "Senior lecturer & researcher at Universiti Sultan Zainal Abidin, Terengganu, Malaysia. View my publications and CV."
+    image: /images/avatar.jpg  # This must be a LARGE image (approx 1200x630px)
+
 
 format:
   html:
