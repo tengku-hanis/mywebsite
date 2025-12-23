@@ -1,7 +1,12 @@
 ---
 title: "Tengku Muhammad Hanis"
-pagetitle: "Tengku Muhammad Hanis"
 subtitle: "<div>Senior Lecturer</div><div><a href='https://www.unisza.edu.my/'>Universiti Sultan Zainal Abidin</a></div>"
+
+# --- ADD THIS BLOCK TO FORCE THE PREVIEW TITLE ---
+open-graph:
+  title: "Tengku Muhammad Hanis"
+# -------------------------------------------------
+
 about: 
   template: trestles
   image: images/avatar.jpg
