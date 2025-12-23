@@ -4,7 +4,7 @@ subtitle: "<div>Senior Lecturer</div><div><a href='https://www.unisza.edu.my/'>U
 
 # --- ADD THIS BLOCK TO FORCE THE PREVIEW TITLE ---
 open-graph:
-  title: "Tengku Muhammad Hanis"
+  title: "Homepage"
 # -------------------------------------------------
 
 about: 
