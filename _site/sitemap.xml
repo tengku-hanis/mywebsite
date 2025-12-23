@@ -1,168 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tengkuhanis.netlify.app/thank-you.html</loc>
-    <lastmod>2025-12-23T08:44:28.620Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2025-03-18-webinar-introduction-to-python/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.620Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2024-10-12-workshop-machine-learning-application-in-epidemiological-research/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.618Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2024-08-18-workshop-bibliometric-analysis-and-systematic-review-using-r/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.616Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2024-05-18-workshop-machine-learning-in-medical-research/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.614Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2024-03-12-webinar-simple-numerical-analysis-using-r/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.610Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2024-03-12-webinar-simple-categorical-analysis-using-r/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.608Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2024-03-12-webinar-correlation-and-regression-analysis-using-r/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.605Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2023-11-08-webinar-how-to-write-a-bibliometric-paper/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.601Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2023-11-01-webinar-how-to-conduct-a-systematic-review/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.597Z</lastmod>
+    <loc>https://tengkuhanis.netlify.app/supervision.html</loc>
+    <lastmod>2025-12-23T09:32:40.167Z</lastmod>
   </url>
   <url>
     <loc>https://tengkuhanis.netlify.app/talks/2023-10-31-webinar-bibliometric-analysis/index.en.html</loc>
     <lastmod>2025-12-23T08:44:28.594Z</lastmod>
   </url>
   <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2023-08-17-webinar-how-to-read-a-paper-for-beginners/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.584Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2023-07-27-talk-a-guide-to-conducting-systematic-review-on-stroke/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.579Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2022-10-20-workshop-on-scoping-review-bibliometric-analysis/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.578Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2021-11-06-pre-conference-workshop-an-introduction-to-meta-analysis-in-r/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.577Z</lastmod>
-  </url>
-  <url>
     <loc>https://tengkuhanis.netlify.app/talks/2021-08-18-webinar-basic-of-meta-analysis-using-r/index.en.html</loc>
     <lastmod>2025-12-23T08:44:28.577Z</lastmod>
   </url>
   <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2020-11-22-talks-an-introduction-to-relative-survival-analysis-using-r/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.576Z</lastmod>
+    <loc>https://tengkuhanis.netlify.app/talks/2024-10-12-talks-exploring-the-covid-19-research-landscape-in-malaysia-a-bibliometric-case-study/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.617Z</lastmod>
   </url>
   <url>
-    <loc>https://tengkuhanis.netlify.app/supervision.html</loc>
-    <lastmod>2025-12-23T09:32:40.167Z</lastmod>
+    <loc>https://tengkuhanis.netlify.app/talks/2024-03-12-webinar-simple-categorical-analysis-using-r/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.608Z</lastmod>
   </url>
   <url>
-    <loc>https://tengkuhanis.netlify.app/projects.html</loc>
-    <lastmod>2025-12-23T08:44:28.575Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/index.html</loc>
-    <lastmod>2025-12-23T09:46:03.548Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/contact.html</loc>
-    <lastmod>2025-09-17T07:47:08.237Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/books/2024-12-20-missing-data-a-practical-guide-on-handling-it-with-r/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.508Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/books/2024-04-16-data-analysis-in-medicine-and-health-using-r/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.506Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/blog/2025-02-13-old-blog-posts/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.506Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/blog.html</loc>
-    <lastmod>2025-12-23T08:44:28.505Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/books/2024-10-29-r-essentials-a-beginner-s-guide-to-data-analysis/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.507Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/books.html</loc>
-    <lastmod>2025-12-23T08:44:28.506Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/cv.html</loc>
-    <lastmod>2025-12-23T08:44:28.508Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/lecture.html</loc>
-    <lastmod>2025-12-23T08:44:28.575Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/publications.html</loc>
-    <lastmod>2025-12-23T08:44:28.575Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2020-09-24-webinar-an-introduction-to-bibliometric-analysis-using-r/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.576Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2021-08-05-webinar-an-introduction-to-meta-analysis-using-r/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.577Z</lastmod>
+    <loc>https://tengkuhanis.netlify.app/talks/2024-06-30-webinar-basics-of-meta-analysis/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.615Z</lastmod>
   </url>
   <url>
     <loc>https://tengkuhanis.netlify.app/talks/2021-10-18-workshop-sytematic-review-and-meta-analysis-using-rstudio/index.en.html</loc>
     <lastmod>2025-12-23T08:44:28.577Z</lastmod>
   </url>
   <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2022-01-27-invited-lecture-university-of-cyberjaya/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.577Z</lastmod>
+    <loc>https://tengkuhanis.netlify.app/talks/2023-11-01-webinar-how-to-conduct-a-systematic-review/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.597Z</lastmod>
   </url>
   <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2022-11-27-talk-exploring-past-literature-a-bibliometric-approach/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.578Z</lastmod>
+    <loc>https://tengkuhanis.netlify.app/talks/2024-03-12-webinar-correlation-and-regression-analysis-using-r/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.605Z</lastmod>
   </url>
   <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2023-08-05-how-to-publish-a-paper-for-beginners-and-newbies-for-health-sciences/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.583Z</lastmod>
+    <loc>https://tengkuhanis.netlify.app/talks/2020-09-24-webinar-an-introduction-to-bibliometric-analysis-using-r/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.576Z</lastmod>
   </url>
   <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2023-09-02-webinar-how-to-write-a-scientific-paper-for-beginners-for-health-sciences/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.585Z</lastmod>
+    <loc>https://tengkuhanis.netlify.app/talks/2024-03-12-webinar-simple-numerical-analysis-using-r/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.610Z</lastmod>
   </url>
   <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2023-11-01-webinar-an-introduction-to-spss-jamovi/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.596Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2023-11-01-webinar-intro-to-r-for-non-coders/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.598Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2023-11-27-webinar-how-to-do-a-meta-analysis/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.602Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2024-03-12-webinar-correlation-and-regression-analysis-using-spss-jamovi/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.606Z</lastmod>
+    <loc>https://tengkuhanis.netlify.app/talks/2024-10-12-workshop-machine-learning-application-in-epidemiological-research/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.618Z</lastmod>
   </url>
   <url>
     <loc>https://tengkuhanis.netlify.app/talks/2024-03-12-webinar-simple-categorical-analysis-using-spss-jamovi/index.en.html</loc>
@@ -173,19 +57,135 @@
     <lastmod>2025-12-23T08:44:28.613Z</lastmod>
   </url>
   <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2024-06-30-webinar-basics-of-meta-analysis/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.615Z</lastmod>
+    <loc>https://tengkuhanis.netlify.app/talks/2022-01-27-invited-lecture-university-of-cyberjaya/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.577Z</lastmod>
   </url>
   <url>
-    <loc>https://tengkuhanis.netlify.app/talks/2024-10-12-talks-exploring-the-covid-19-research-landscape-in-malaysia-a-bibliometric-case-study/index.en.html</loc>
-    <lastmod>2025-12-23T08:44:28.617Z</lastmod>
+    <loc>https://tengkuhanis.netlify.app/talks/2023-09-02-webinar-how-to-write-a-scientific-paper-for-beginners-for-health-sciences/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.585Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/talks/2021-11-06-pre-conference-workshop-an-introduction-to-meta-analysis-in-r/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.577Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/talks.html</loc>
+    <lastmod>2025-12-23T08:44:28.575Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/books/2024-10-29-r-essentials-a-beginner-s-guide-to-data-analysis/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.507Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/books/2024-12-20-missing-data-a-practical-guide-on-handling-it-with-r/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.508Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/lecture.html</loc>
+    <lastmod>2025-12-23T08:44:28.575Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/blog.html</loc>
+    <lastmod>2025-12-23T08:44:28.505Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/blog/2025-02-13-old-blog-posts/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.506Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/contact.html</loc>
+    <lastmod>2025-12-23T08:44:28.508Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/publications.html</loc>
+    <lastmod>2025-12-23T08:44:28.575Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/thank-you.html</loc>
+    <lastmod>2025-12-23T08:44:28.620Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/cv.html</loc>
+    <lastmod>2025-12-23T08:44:28.508Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/books.html</loc>
+    <lastmod>2025-12-23T08:44:28.506Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/books/2024-04-16-data-analysis-in-medicine-and-health-using-r/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.506Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/projects.html</loc>
+    <lastmod>2025-12-23T08:44:28.575Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/talks/2024-03-12-webinar-correlation-and-regression-analysis-using-spss-jamovi/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.606Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/talks/2023-08-17-webinar-how-to-read-a-paper-for-beginners/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.584Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/talks/2023-07-27-talk-a-guide-to-conducting-systematic-review-on-stroke/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.579Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/talks/2023-11-08-webinar-how-to-write-a-bibliometric-paper/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.601Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/talks/2024-05-18-workshop-machine-learning-in-medical-research/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.614Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/talks/2025-03-18-webinar-introduction-to-python/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.620Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/talks/2021-08-05-webinar-an-introduction-to-meta-analysis-using-r/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.577Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/talks/2024-08-18-workshop-bibliometric-analysis-and-systematic-review-using-r/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.616Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/talks/2023-11-01-webinar-intro-to-r-for-non-coders/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.598Z</lastmod>
   </url>
   <url>
     <loc>https://tengkuhanis.netlify.app/talks/2024-12-20-webinar-machine-learning-with-r/index.en.html</loc>
     <lastmod>2025-12-23T08:44:28.619Z</lastmod>
   </url>
   <url>
-    <loc>https://tengkuhanis.netlify.app/talks.html</loc>
-    <lastmod>2025-12-23T08:44:28.575Z</lastmod>
+    <loc>https://tengkuhanis.netlify.app/talks/2023-08-05-how-to-publish-a-paper-for-beginners-and-newbies-for-health-sciences/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.583Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/talks/2022-10-20-workshop-on-scoping-review-bibliometric-analysis/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.578Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/talks/2023-11-27-webinar-how-to-do-a-meta-analysis/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.602Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/talks/2020-11-22-talks-an-introduction-to-relative-survival-analysis-using-r/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.576Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/talks/2022-11-27-talk-exploring-past-literature-a-bibliometric-approach/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.578Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/talks/2023-11-01-webinar-an-introduction-to-spss-jamovi/index.en.html</loc>
+    <lastmod>2025-12-23T08:44:28.596Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/index.html</loc>
+    <lastmod>2025-12-23T09:50:12.970Z</lastmod>
   </url>
 </urlset>

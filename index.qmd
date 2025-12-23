@@ -1,6 +1,6 @@
 ---
 title: "Tengku Muhammad Hanis"
-pagetitle: "Background"
+pagetitle: "Tengku Muhammad Hanis"
 subtitle: "<div>Senior Lecturer</div><div><a href='https://www.unisza.edu.my/'>Universiti Sultan Zainal Abidin</a></div>"
 about: 
   template: trestles
