@@ -277,7 +277,7 @@
     "href": "projects.html#completed",
     "title": "Projects",
     "section": "Completed",
-    "text": "Completed\n\n\n\nTitle\nDescription\nPeriod\n\n\n\n\nThe development of a web app for breast cancer risk estimation\nThis projects aimed to develop a web application for breast cancer risk estimator using a Shiny application\n2022 - 2023\n\n\nPrediction of breast cancer diagnosis using machine learning in Malaysian women\nThis study explored the use of machine learning and deep learning as a screening model and supplementary diagnostic tool for breast cancer\n2020 - 2024\n\n\nSituation analysis and modelling of COVID-19 cases in Malaysia\nThis project was conducted under the Epidemiology and Statistical Modelling team at Universiti Sains Malaysia to analyse the situation and modeling of COVID-19 cases in Malaysia\n2020 - 2023\n\n\nRelative survival and its prognostic factors of breast cancer patients in Kelantan, Malaysia\nThis project measured relative survival rate of breast cancer and its prognostic factors in Kelantan population.\n2018 - 2019"
+    "text": "Completed\n\n\n\n\n\n\n\n\nTitle\nDescription\nPeriod\n\n\n\n\nPrediction of breast cancer diagnosis using machine learning in Malaysian women\nThis study explored the use of machine learning and deep learning as a screening model and supplementary diagnostic tool for breast cancer\n2020 - 2024\n\n\nSituation analysis and modelling of COVID-19 cases in Malaysia\nThis project was conducted under the Epidemiology and Statistical Modelling team at Universiti Sains Malaysia to analyse the situation and modeling of COVID-19 cases in Malaysia\n2020 - 2023\n\n\nRelative survival and its prognostic factors of breast cancer patients in Kelantan, Malaysia\nThis project measured relative survival rate of breast cancer and its prognostic factors in Kelantan population.\n2018 - 2019"
   },
   {
     "objectID": "talks/2024-03-12-webinar-correlation-and-regression-analysis-using-spss-jamovi/index.en.html",
@@ -418,5 +418,12 @@
     "title": "Tengku Muhammad Hanis",
     "section": "Education",
     "text": "Education\n\nPhD in Public Health Epidemiology, 2020-2024 - Universiti Sains Malaysia\nMSc in Medical Statistics, 2017-2019 - Universiti Sains Malaysia\nMBBCh in Medicine, 2008-2015 - Al-Azhar University"
+  },
+  {
+    "objectID": "webapp.html",
+    "href": "webapp.html",
+    "title": "Web App",
+    "section": "",
+    "text": "Project\nDescription\nLink\n\n\n\n\nSimplyMeta: Meta-Analysis for Non-R Users\nSimplyMeta is an opinionated wrapper for the meta package in R. It is designed to provide a streamlined, no-code alternative and is freely available for all non-commercial use.\nSee the app\n\n\nShinyBC: breast cancer risk estimator\nShinyBC is an open-source R-based breast cancer risk estimator. This app demonstrates the use of machine learning and explainable artificial intelligence (XAI) to facilitate the early screening of breast cancer.\nSee the app"
   }
 ]

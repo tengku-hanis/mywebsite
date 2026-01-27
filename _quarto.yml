@@ -16,6 +16,7 @@ website:
       - publications.qmd
       - projects.qmd
       - talks.qmd
+      - webapp.qmd
       - supervision.qmd
       - lecture.qmd
       - blog.qmd
@@ -24,7 +25,7 @@ website:
       - contact.qmd
   page-footer: 
     center: |
-      {{< fa regular copyright >}} Tengku Hanis, 2020-2025<br>
+      {{< fa regular copyright >}} Tengku Hanis, 2020-2026<br>
       All content licensed under {{< fa brands creative-commons >}}
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
   # --- ADD THIS SECTION FOR SOCIAL MEDIA PREVIEW ---
