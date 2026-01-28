@@ -1,5 +1,20 @@
 [
   {
+    "listing": "/books.html",
+    "items": [
+      "/books/2026-01-28-simplymeta/index.en.html",
+      "/books/2024-12-20-missing-data-a-practical-guide-on-handling-it-with-r/index.en.html",
+      "/books/2024-10-29-r-essentials-a-beginner-s-guide-to-data-analysis/index.en.html",
+      "/books/2024-04-16-data-analysis-in-medicine-and-health-using-r/index.en.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/2025-02-13-old-blog-posts/index.en.html"
+    ]
+  },
+  {
     "listing": "/talks.html",
     "items": [
       "/talks/2025-03-18-webinar-introduction-to-python/index.en.html",
@@ -34,20 +49,6 @@
       "/talks/2021-08-05-webinar-an-introduction-to-meta-analysis-using-r/index.en.html",
       "/talks/2020-11-22-talks-an-introduction-to-relative-survival-analysis-using-r/index.en.html",
       "/talks/2020-09-24-webinar-an-introduction-to-bibliometric-analysis-using-r/index.en.html"
-    ]
-  },
-  {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/2025-02-13-old-blog-posts/index.en.html"
-    ]
-  },
-  {
-    "listing": "/books.html",
-    "items": [
-      "/books/2024-12-20-missing-data-a-practical-guide-on-handling-it-with-r/index.en.html",
-      "/books/2024-10-29-r-essentials-a-beginner-s-guide-to-data-analysis/index.en.html",
-      "/books/2024-04-16-data-analysis-in-medicine-and-health-using-r/index.en.html"
     ]
   }
 ]
