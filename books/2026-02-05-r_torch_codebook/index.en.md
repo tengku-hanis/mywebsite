@@ -2,6 +2,7 @@
 title: "The R torch codebook"
 date: '2026-02-05'
 categories: 
+  - R
   - data analysis
   - deep learning
 author: Tengku Muhammad Hanis
