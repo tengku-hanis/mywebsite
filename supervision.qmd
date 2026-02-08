@@ -10,15 +10,13 @@ For prospective Master's or PhD students, please contact me via [Contact Me](con
 
 | No | Name | Programme | Period | Role |
 |---------------|---------------|---------------|---------------|---------------|
-| 1 | Dr Iza Sharina Binti Ismail | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2023 - Present | External Co-supervisor |
-| 2 | Dr Mohamad Faez Bin Ibrahim | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2023 - Present | External Co-supervisor |
-| 3 | Dr Vivian Wong Chee Yien | Master of Medicine - Radiology, Universiti Sains Malaysia | 2024 - Present | External Co-supervisor |
-| 4 | Dr Sariah Binti Nursalim | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
-| 5 | Dr Ahmad Fauzan Bin Zainal Bakri | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
-| 6 | Dr Nur Syahira Bin Jamil Rashid | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
-| 7 | Dr Wan Hawa Nabihah Binti Wan Rasni | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
-| 8 | Dr Norazlina Binti Mohamad Hashim | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
-| 9 | Dr Mohd Hafiz Idlan Bin Radzali | Master of Science - Occupational Health, Universiti Sultan Zainal Abidin | 2025 - Present | Internal Co-Supervisor |
+| 1 | Dr Vivian Wong Chee Yien | Master of Medicine - Radiology, Universiti Sains Malaysia | 2024 - Present | External Co-supervisor |
+| 2 | Dr Sariah Binti Nursalim | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
+| 3 | Dr Ahmad Fauzan Bin Zainal Bakri | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
+| 4 | Dr Nur Syahira Bin Jamil Rashid | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
+| 5 | Dr Wan Hawa Nabihah Binti Wan Rasni | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
+| 6 | Dr Norazlina Binti Mohamad Hashim | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
+| 7 | Dr Mohd Hafiz Idlan Bin Radzali | Master of Science - Occupational Health, Universiti Sultan Zainal Abidin | 2025 - Present | Internal Co-Supervisor |
 
 ### PhD programme
 
@@ -28,7 +26,10 @@ For prospective Master's or PhD students, please contact me via [Contact Me](con
 
 ### Master programme
 
--   None
+| No | Name | Programme | Period | Role |
+|---------------|---------------|---------------|---------------|---------------|
+| 1 | Dr Iza Sharina Binti Ismail | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2023 - 2025 | External Co-supervisor |
+| 2 | Dr Mohamad Faez Bin Ibrahim | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2023 - 2025 | External Co-supervisor |
 
 ### PhD programme
 
