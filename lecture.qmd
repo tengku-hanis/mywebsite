@@ -38,6 +38,10 @@ title: "Lectures"
 
 ## Postgraduate material
 
+### 2026:
+
+1.  CFA using jamovi \[February 20, 2026\] - [Recording](https://youtu.be/u-9CgfuRND8?si=RcDybptmuWXpoiec), [Material](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEE5WWtSamp6NTdFb2E2WTk4a19IX3h4U2ltZ3xBQ3Jtc0trejlfbk1wcjFHbkVRRkJHdXJzMF9Ia21WMmNsOHJ2V1hDWWYxWFV2bnRKbDJrSnQ3VlJ4bkJzNUtUc1JSUE4ydXFrYm9jZEJqMFpjaXJFZnNxR3BGQUs1QWcwM0hwT3JvTk01UHhkME5VNms3UndZMA&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1tnIypfyl-0R2vDxECidyTQpkIZHjVdLB%3Fusp%3Dsharing&v=u-9CgfuRND8)
+
 ### 2025:
 
 1.  Meta-analysis in RCTs \[April 28, 2025\] - <button onclick="checkPassword('https://drive.google.com/drive/folders/1NDx8YtYe36OO4FJNsLpDkyr5PXyDd0xR?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button>
