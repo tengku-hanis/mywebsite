@@ -194,7 +194,7 @@
   </url>
   <url>
     <loc>https://tengkuhanis.netlify.app/talks.html</loc>
-    <lastmod>2026-02-20T07:43:19.596Z</lastmod>
+    <lastmod>2026-03-12T08:41:49.517Z</lastmod>
   </url>
   <url>
     <loc>https://tengkuhanis.netlify.app/books/2026-02-05-r_torch_codebook/index.en.html</loc>
@@ -203,5 +203,9 @@
   <url>
     <loc>https://tengkuhanis.netlify.app/talks/2026-02-12-workshop-ml-seberang-jaya/index.en.html</loc>
     <lastmod>2026-02-20T07:43:19.640Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tengkuhanis.netlify.app/talks/2026-03-10-workshop-applied-ml-using-r/index.en.html</loc>
+    <lastmod>2026-03-12T08:42:03.087Z</lastmod>
   </url>
 </urlset>
