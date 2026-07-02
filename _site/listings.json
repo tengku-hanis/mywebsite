@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/2025-02-13-old-blog-posts/index.en.html"
+    ]
+  },
+  {
     "listing": "/books.html",
     "items": [
       "/books/2026-02-05-r_torch_codebook/index.en.html",
@@ -10,14 +16,9 @@
     ]
   },
   {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/2025-02-13-old-blog-posts/index.en.html"
-    ]
-  },
-  {
     "listing": "/talks.html",
     "items": [
+      "/talks/2026-06-24-prod-workshop/index.en.html",
       "/talks/2026-03-10-workshop-applied-ml-using-r/index.en.html",
       "/talks/2026-02-12-workshop-ml-seberang-jaya/index.en.html",
       "/talks/2025-03-18-webinar-introduction-to-python/index.en.html",
