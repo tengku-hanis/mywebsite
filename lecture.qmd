@@ -45,3 +45,4 @@ title: "Lectures"
 ### 2025:
 
 1.  Meta-analysis in RCTs \[April 28, 2025\] - <button onclick="checkPassword('https://drive.google.com/drive/folders/1NDx8YtYe36OO4FJNsLpDkyr5PXyDd0xR?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button>
+2.  Diagnostic test accuracy meta-analysis (DTA MA) \[July 02, 2026\] - <button onclick="checkPassword('hhttps://drive.google.com/file/d/1tLqDdVlf0uOngI7VBmtIDQVSUnPKKOCS/view?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button>
