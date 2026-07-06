@@ -18,6 +18,19 @@ title: "Lectures"
 
 ## Undergraduate material
 
+### 2026:
+
+#### MBBS Year 2
+
+##### Fundamentals of Community Medicine and Research (BMM 21204):
+
+1.  Descriptive statistics - Lecture \[July 08, 20256 - <button onclick="checkPassword('https://drive.google.com/file/d/1XP69hISTz6f9Kmy2d_NnC93cIqI1bRvF/view?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button>
+2.  Data presentation - Lecture \[July 08, 2026\] - <button onclick="checkPassword('https://drive.google.com/file/d/1f5ocb2_W5tbnr-acBkkngF92pBsp-ibC/view?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button>
+3.  Introduction to SPSS - CAL \[July 09, 2026\] - <button onclick="checkPassword('https://drive.google.com/drive/folders/1hb04peD1rRXT3p800OI4CmxDt8hE5ddE?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button>
+4.  McNemar test - CAL \[July 14, 2026\]
+5.  Non-parametric tests - CAL \[July 15, 2026\]
+6.  Causal inference - Lecture \[July 19, 2026\]
+
 ### 2025:
 
 #### MBBS Year 2
