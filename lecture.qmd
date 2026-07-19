@@ -29,7 +29,7 @@ title: "Lectures"
 3.  Introduction to SPSS - CAL \[July 09, 2026\] - <button onclick="checkPassword('https://drive.google.com/drive/folders/1hb04peD1rRXT3p800OI4CmxDt8hE5ddE?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button>
 4.  McNemar test - CAL \[July 15, 2026\] - <button onclick="checkPassword('https://drive.google.com/drive/folders/1JtQTxXehEiP-7q7vsExAIBeAJBepua4P?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button>
 5.  Non-parametric tests - CAL \[July 15, 2026\] - <button onclick="checkPassword('https://drive.google.com/drive/folders/1UamY7JFvp4BC9_yjzdF68bCQXhIzrBsu?usp=sharing')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">Link to material</button>
-6.  Causal inference - Lecture \[July 19, 2026\]
+6.  Causal inference - Lecture \[July 19, 2026\] - `<button onclick="checkPassword('`{=html}https://drive.google.com/file/d/1Io97N5mM1CCxzWvhY-eQj0AYpgfrCnqF/view?usp=sharing`')" style="padding:1px 12px; font-size:14px; border-radius:4px; background-color:#4CAF50; color:white; border:none; cursor:pointer;">`{=html}Link to material</button>
 
 ### 2025:
 
