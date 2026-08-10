@@ -4,7 +4,7 @@ date: '2026-07-21'
 categories: 
   - R
   - missing data
-subtitle: This was organised by Unit Kesihatan Digital USM in collaboration with Malaysian Disease Modelling Experts Group & Malaysian Association of Epidemiology
+subtitle: This webinar was organised by Unit Kesihatan Digital USM in collaboration with Malaysian Disease Modelling Experts Group & Malaysian Association of Epidemiology
 ---
 
 ![](featured.jpeg){width="70%"}
