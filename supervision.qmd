@@ -12,15 +12,17 @@ For prospective Master's or PhD students, please contact me via [Contact Me](con
 |---------------|---------------|---------------|---------------|---------------|
 | 1 | Dr Vivian Wong Chee Yien | Master of Medicine - Radiology, Universiti Sains Malaysia | 2024 - Present | External Co-supervisor |
 | 2 | Dr Sariah Binti Nursalim | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
-| 3 | Dr Ahmad Fauzan Bin Zainal Bakri | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
-| 4 | Dr Nur Syahira Bin Jamil Rashid | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
-| 5 | Dr Wan Hawa Nabihah Binti Wan Rasni | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
-| 6 | Dr Norazlina Binti Mohamad Hashim | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
-| 7 | Dr Mohd Hafiz Idlan Bin Radzali | Master of Science - Occupational Health, Universiti Sultan Zainal Abidin | 2025 - Present | Internal Co-Supervisor |
+| 3 | Dr Nur Syahira Bin Jamil Rashid | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
+| 4 | Dr Wan Hawa Nabihah Binti Wan Rasni | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
+| 5 | Dr Norazlina Binti Mohamad Hashim | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - Present | External Co-supervisor |
+| 6 | Dr Mohd Hafiz Idlan Bin Radzali | Master of Science - Occupational Health, Universiti Sultan Zainal Abidin | 2025 - Present | Internal Co-Supervisor |
+| 7 | Dr Suleiman Abdullahi Khalid | Master of Science - Biostatistics, Universiti Sultan Zainal Abidin | 2026 - Present | Main Supervisor |
 
 ### PhD programme
 
--   None
+| No | Name | Programme | Period | Role |
+|---------------|---------------|---------------|---------------|---------------|
+| 1 | Tan Lili | Doctor of Philosophy, Universiti Sultan Zainal Abidin | 2026 - Present | Internal Co-supervisor |
 
 ## Completed
 
@@ -30,7 +32,8 @@ For prospective Master's or PhD students, please contact me via [Contact Me](con
 |---------------|---------------|---------------|---------------|---------------|
 | 1 | Dr Iza Sharina Binti Ismail | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2023 - 2025 | External Co-supervisor |
 | 2 | Dr Mohamad Faez Bin Ibrahim | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2023 - 2025 | External Co-supervisor |
+| 3 | Dr Ahmad Fauzan Bin Zainal Bakri | Master of Medicine - Emergency Medicine, Universiti Sains Malaysia | 2025 - 2026 | External Co-supervisor |
 
 ### PhD programme
 
--   None
+- None
